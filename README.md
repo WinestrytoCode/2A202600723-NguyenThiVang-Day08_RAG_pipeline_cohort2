@@ -36,7 +36,7 @@ graph TD
     QueryLogger -->|failures/stats| JSONL[("query_failures.jsonl")]
     
     subgraph Retrieval ["Pipeline Tìm Kiếm Lai (Hybrid Retrieval)"]
-        API -->|Orchestrate| Retrieve[retrieve()]
+        API -->|Orchestrate| Retrieve[retrieve Orchestrator]
         Retrieve -->|Dense| Dense[Semantic Search ChromaDB]
         Retrieve -->|Sparse| Sparse[Lexical Search BM25]
         Dense & Sparse -->|Merge| Fusion[RRF Fusion]
@@ -47,7 +47,7 @@ graph TD
     end
     
     subgraph Generation ["RAG Generation"]
-        API -->|Generate| Gen[generate_with_citation()]
+        API -->|Generate| Gen[generate_with_citation]
         FinalDocs --> Gen
         Gen -->|Anti-Lost-in-Middle| Reorder[Document Reordering]
         Reorder -->|Completion| LLM[gpt-4o-mini via litellm]
