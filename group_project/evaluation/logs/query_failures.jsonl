@@ -111,3 +111,5 @@
 {"timestamp": "2026-06-08T07:38:53.382515", "source": "live", "query": "Hình phạt tàng trữ ma tuý", "mode": "hybrid", "total_results": 7, "elapsed_ms": 165.8, "top_score": 0.9994, "is_failure": false, "failure_reasons": []}
 {"timestamp": "2026-06-08T07:39:29.431457", "source": "live", "query": "Chi Dân bị bắt ma tuý", "mode": "hybrid", "total_results": 7, "elapsed_ms": 243.9, "top_score": 0.9999, "is_failure": false, "failure_reasons": []}
 {"timestamp": "2026-06-08T07:39:45.483361", "source": "live", "query": "những nghệ sĩ bị bắt ma túy", "mode": "hybrid", "total_results": 7, "elapsed_ms": 197.1, "top_score": 0.9962, "is_failure": false, "failure_reasons": []}
+{"timestamp": "2026-06-08T07:46:55.584913", "source": "live", "query": "An Tây khởi tố ma tuý", "mode": "hybrid", "total_results": 7, "elapsed_ms": 200.3, "top_score": 0.9997, "is_failure": false, "failure_reasons": []}
+{"timestamp": "2026-06-08T07:47:16.568739", "source": "live", "query": "lệ hằng bị bắt", "mode": "hybrid", "total_results": 7, "elapsed_ms": 164.1, "top_score": 0.9977, "is_failure": false, "failure_reasons": []}
