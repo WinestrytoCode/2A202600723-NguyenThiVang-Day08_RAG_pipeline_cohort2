@@ -106,3 +106,4 @@
 {"timestamp": "2026-06-08T06:50:24.964258", "source": "live", "query": "An Tây khởi tố ma tuý", "mode": "hybrid", "total_results": 7, "elapsed_ms": 196.4, "top_score": 0.9997, "is_failure": false, "failure_reasons": []}
 {"timestamp": "2026-06-08T06:50:52.331524", "source": "live", "query": "An Tây khởi tố ma tuý", "mode": "hybrid", "total_results": 7, "elapsed_ms": 207.1, "top_score": 0.9997, "is_failure": false, "failure_reasons": []}
 {"timestamp": "2026-06-08T06:50:59.389966", "source": "live", "query": "An Tây khởi tố ma tuý", "mode": "hybrid", "total_results": 7, "elapsed_ms": 211.4, "top_score": 0.9997, "is_failure": false, "failure_reasons": []}
+{"timestamp": "2026-06-08T07:03:20.393415", "source": "live", "query": "điều 219 liên quan ma túy là gì?", "mode": "hybrid", "total_results": 7, "elapsed_ms": 182.4, "top_score": 0.8615, "is_failure": false, "failure_reasons": []}
