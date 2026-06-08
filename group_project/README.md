@@ -17,48 +17,48 @@ graph TD
     classDef model fill:#f3e5f5,stroke:#9c27b0,stroke-width:2px,color:#4a148c;
     classDef pipe fill:#fff3e0,stroke:#ff9800,stroke-width:2px,color:#e65100;
     
-    subgraph UI ["Giao diện Người dùng (Frontend)"]
-        User(["User Client"]) -->|1. Nhập câu hỏi| WebUI["Vanilla JS Web App (app.js)"]
+    subgraph UI ["Giao diện Người dùng - Frontend"]
+        User(["User Client"]) -->|1. Nhập câu hỏi| WebUI["Vanilla JS Web App - app.js"]
         WebUI -->|Hiển thị kết quả & Chat| User
     end
 
-    subgraph Backend ["FastAPI API Server (main.py)"]
+    subgraph Backend ["FastAPI API Server - main.py"]
         WebUI -->|2. HTTP POST /api/search| API["FastAPI Controller"]
         API -->|6. Ghi nhật ký truy vấn| QueryLogger["Query Failure Logger"]
         QueryLogger -->|7. Lưu trữ logs| JSONL[("query_failures.jsonl")]
         
-        subgraph Pipeline ["Pipeline Truy vấn Lai (task9_retrieval_pipeline.py)"]
-            API -->|3. Route truy vấn| Retrieve["retrieve() Orchestrator"]
+        subgraph Pipeline ["Pipeline Truy vấn Lai - task9_retrieval_pipeline.py"]
+            API -->|3. Route truy vấn| Retrieve["retrieve Orchestrator"]
             
             %% Dense Search
-            Retrieve -->|Truy vấn Ngữ nghĩa| Dense["Semantic Search (task5)"]
+            Retrieve -->|Truy vấn Ngữ nghĩa| Dense["Semantic Search - task5"]
             Dense -->|Tính vector truy vấn| DenseEmbed["MiniLM Embedding Model"]
             Dense -->|Tìm kiếm Khoảng cách| ChromaDB[("ChromaDB Vector Store")]
             
             %% Sparse Search
-            Retrieve -->|Truy vấn Từ khóa| Sparse["Lexical Search (task6)"]
+            Retrieve -->|Truy vấn Từ khóa| Sparse["Lexical Search - task6"]
             Sparse -->|Điểm số BM25| BM25["BM25Okapi Index"]
             
             %% Fusion
-            Dense -->|Top-2K Dense| Fusion["RRF Fusion (Reciprocal Rank Fusion)"]
+            Dense -->|Top-2K Dense| Fusion["RRF Fusion - Reciprocal Rank Fusion"]
             Sparse -->|Top-2K Sparse| Fusion
             
             %% Rerank
-            Fusion -->|Hợp nhất ứng viên| Rerank["Reranker (task7)"]
+            Fusion -->|Hợp nhất ứng viên| Rerank["Reranker - task7"]
             Rerank -->|Sigmoid Normalization| CEModel["mMARCO Cross-Encoder Model"]
             
             %% Fallback
             Rerank -->|Top Results| FallbackCheck{"Top Score < 0.3?"}
-            FallbackCheck -->|Đúng (Fallback)| PageIndex["PageIndex Vectorless Search (task8)"]
-            FallbackCheck -->|Sai (Đủ tốt)| FinalDocs["Final Retrieved Context Chunks"]
+            FallbackCheck -->|Đúng - Fallback| PageIndex["PageIndex Vectorless Search - task8"]
+            FallbackCheck -->|Sai - Đủ tốt| FinalDocs["Final Retrieved Context Chunks"]
             PageIndex -->|Kết quả cấu trúc| FinalDocs
         end
         
-        subgraph Generation ["RAG Generation (task10_generation.py)"]
-            API -->|4. Tạo câu trả lời| Gen["generate_with_citation()"]
+        subgraph Generation ["RAG Generation - task10_generation.py"]
+            API -->|4. Tạo câu trả lời| Gen["generate_with_citation"]
             FinalDocs -->|Truyền ngữ cảnh| Gen
-            Gen -->|Tránh trôi thông tin giữa| Reorder["Document Reordering [1, 3, 5, 4, 2]"]
-            Reorder -->|Chèn Prompt và Context| LLM["litellm (gpt-4o-mini)"]
+            Gen -->|Tránh trôi thông tin giữa| Reorder["Document Reordering - 1, 3, 5, 4, 2"]
+            Reorder -->|Chèn Prompt và Context| LLM["litellm - gpt-4o-mini"]
             LLM -->|5. Trả lời kèm Trích dẫn| API
         end
     end
