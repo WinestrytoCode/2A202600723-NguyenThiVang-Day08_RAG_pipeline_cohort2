@@ -120,6 +120,11 @@ def index_to_vectorstore(chunks: list[dict]):
     
     db_path = STANDARDIZED_DIR.parent / "chroma_db"
     client = chromadb.PersistentClient(path=str(db_path))
+    try:
+        client.delete_collection(name="rag_collection")
+        print("✓ Deleted existing ChromaDB collection 'rag_collection'")
+    except Exception:
+        pass
     collection = client.get_or_create_collection(name="rag_collection")
     
     ids = []

@@ -43,6 +43,14 @@ def build_bm25_index(corpus: list[dict]):
     return bm25
 
 
+_GLOBAL_BM25 = None
+
+def get_bm25():
+    global _GLOBAL_BM25
+    if _GLOBAL_BM25 is None:
+        _GLOBAL_BM25 = build_bm25_index(CORPUS)
+    return _GLOBAL_BM25
+
 def lexical_search(query: str, top_k: int = 10) -> list[dict]:
     """
     Tìm kiếm từ khóa sử dụng BM25.
@@ -59,7 +67,7 @@ def lexical_search(query: str, top_k: int = 10) -> list[dict]:
         }
         Sorted by score descending.
     """
-    bm25 = build_bm25_index(CORPUS)
+    bm25 = get_bm25()
     tokenized_query = query.lower().split()
     scores = bm25.get_scores(tokenized_query)
     

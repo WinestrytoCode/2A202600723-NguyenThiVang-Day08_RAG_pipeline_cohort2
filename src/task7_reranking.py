@@ -12,6 +12,21 @@ Nếu dùng MMR hoặc RRF, đảm bảo hiểu và giải thích được cơ c
 from typing import Optional
 
 
+import math
+
+def sigmoid(x):
+    return 1 / (1 + math.exp(-x))
+
+_CROSS_ENCODER = None
+
+def get_cross_encoder():
+    global _CROSS_ENCODER
+    if _CROSS_ENCODER is None:
+        from sentence_transformers import CrossEncoder
+        # Sử dụng mô hình cross-encoder multilingual cho tiếng Việt (mMARCO)
+        _CROSS_ENCODER = CrossEncoder('unicamp-dl/mminiLM-L6-v2-mmarco-v2', max_length=512)
+    return _CROSS_ENCODER
+
 def rerank_cross_encoder(
     query: str, candidates: list[dict], top_k: int = 5
 ) -> list[dict]:
@@ -26,10 +41,7 @@ def rerank_cross_encoder(
     Returns:
         List of top_k candidates, re-scored và sorted by rerank_score descending.
     """
-    from sentence_transformers import CrossEncoder
-    
-    # Sử dụng mô hình cross-encoder nhẹ và tốt cho re-ranking chung
-    model = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2', max_length=512)
+    model = get_cross_encoder()
     
     pairs = [[query, doc["content"]] for doc in candidates]
     scores = model.predict(pairs)
@@ -37,7 +49,7 @@ def rerank_cross_encoder(
     reranked = []
     for i, score in enumerate(scores):
         item = candidates[i].copy()
-        item["score"] = float(score)
+        item["score"] = float(sigmoid(score))
         reranked.append(item)
         
     reranked.sort(key=lambda x: x["score"], reverse=True)

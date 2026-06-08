@@ -33,7 +33,15 @@ ARTICLE_URLS = [
     "https://tuoitre.vn/kham-xet-noi-o-cua-ca-si-chi-dan-nguoi-mau-an-tay-20241110121124701.htm",
     "https://tuoitre.vn/dien-vien-huu-tin-linh-7-nam-6-thang-tu-vi-to-chuc-su-dung-ma-tuy-20230428135851493.htm",
     "https://tuoitre.vn/ca-si-chau-viet-cuong-linh-13-nam-tu-giam-20190307130545935.htm",
-    "https://tuoitre.vn/bat-giam-ca-si-chu-bin-to-chuc-su-dung-ma-tuy-tai-quan-10-20240606132717326.htm"
+    "https://tuoitre.vn/bat-giam-ca-si-chu-bin-to-chuc-su-dung-ma-tuy-tai-quan-10-20240606132717326.htm",
+    "https://vnexpress.net/ma-tuy-trong-loi-song-showbiz-5074606.html",
+    "https://vnexpress.net/long-nhat-duoc-biet-den-ra-sao-truoc-khi-bi-bat-lien-quan-ma-tuy-5076279.html",
+    "https://vnexpress.net/anh-em-ca-si-chi-dan-ru-nhieu-nguoi-choi-ma-tuy-nhu-the-nao-4929804.html",
+    "https://vnexpress.net/nguoi-mau-andrea-aybar-va-ca-si-chi-dan-bi-bat-4814295.html",
+    "https://vnexpress.net/227-nguoi-bi-truy-to-trong-vu-4-tiep-vien-hang-khong-xach-ma-tuy-5057648.html",
+    "https://vnexpress.net/trum-ma-tuy-dung-sau-duong-day-lien-quan-4-tiep-vien-hang-khong-5059153.html",
+    "https://tuoitre.vn/hot-girl-dieu-hanh-duong-day-cung-cap-nuoc-vui-thuoc-lac-cho-nguoi-nuoc-ngoai-20260602145446559.htm",
+    "https://tuoitre.vn/nha-trang-tang-cuong-ra-soat-xet-nghiem-ma-tuy-gom-ca-nguoi-nuoc-ngoai-20260607143603699.htm"
 ]
 
 

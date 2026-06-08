@@ -1,17 +1,182 @@
 [
   {
+    "id": "legal_001",
     "question": "Hình phạt cho tội tàng trữ trái phép chất ma tuý theo Điều 249 Bộ luật Hình sự?",
     "expected_answer": "Phạt tù từ 1 đến 5 năm đối với trường hợp tàng trữ từ 1g đến dưới 5g heroin hoặc cocaine, hoặc chất ma tuý khác với khối lượng tương đương.",
-    "expected_context": "Bộ luật Hình sự 2015, Điều 249"
+    "expected_keywords": ["Điều 249", "tàng trữ", "phạt tù", "hình sự"],
+    "expected_doc_type": "legal",
+    "category": "hình phạt pháp luật",
+    "difficulty": "easy"
   },
   {
+    "id": "legal_002",
     "question": "Luật Phòng chống ma tuý 2021 quy định những hình thức cai nghiện nào?",
-    "expected_answer": "Cai nghiện tự nguyện tại gia đình, cai nghiện tự nguyện tại cộng đồng, cai nghiện tự nguyện tại cơ sở cai nghiện, và cai nghiện bắt buộc tại cơ sở cai nghiện.",
-    "expected_context": "Luật Phòng chống ma tuý 2021, Chương V"
+    "expected_answer": "Cai nghiện tự nguyện tại gia đình, cộng đồng, tại cơ sở cai nghiện và cai nghiện bắt buộc.",
+    "expected_keywords": ["cai nghiện", "tự nguyện", "bắt buộc", "2021"],
+    "expected_doc_type": "legal",
+    "category": "cai nghiện",
+    "difficulty": "easy"
   },
   {
+    "id": "legal_003",
     "question": "Danh mục các chất ma tuý thuộc nhóm I theo quy định pháp luật Việt Nam gồm những chất nào?",
-    "expected_answer": "Nhóm I gồm các chất ma tuý tuyệt đối cấm sử dụng trong y học và đời sống, bao gồm heroin, cocaine, methamphetamine, MDMA (ecstasy), cannabis (cần sa), và các chất tương tự.",
-    "expected_context": "Nghị định 57/2022/NĐ-CP, Phụ lục I"
+    "expected_answer": "Nhóm I gồm heroin, cocaine, methamphetamine, MDMA (ecstasy), cannabis và các chất tương tự.",
+    "expected_keywords": ["nhóm I", "heroin", "cocaine", "methamphetamine"],
+    "expected_doc_type": "legal",
+    "category": "phân loại ma túy",
+    "difficulty": "medium"
+  },
+  {
+    "id": "legal_004",
+    "question": "Tội mua bán trái phép chất ma tuý bị phạt tù bao nhiêu năm?",
+    "expected_answer": "Tội mua bán trái phép chất ma tuý có thể bị phạt tù từ 2 năm đến tử hình tuỳ theo khối lượng và hành vi vi phạm.",
+    "expected_keywords": ["mua bán", "ma tuý", "phạt tù", "tử hình"],
+    "expected_doc_type": "legal",
+    "category": "hình phạt pháp luật",
+    "difficulty": "medium"
+  },
+  {
+    "id": "legal_005",
+    "question": "Điều kiện để được áp dụng biện pháp cai nghiện bắt buộc theo pháp luật Việt Nam?",
+    "expected_answer": "Người nghiện ma tuý từ đủ 18 tuổi trở lên không có nơi cư trú ổn định, đã được giáo dục nhiều lần mà vẫn còn nghiện.",
+    "expected_keywords": ["cai nghiện bắt buộc", "18 tuổi", "không có nơi cư trú"],
+    "expected_doc_type": "legal",
+    "category": "cai nghiện",
+    "difficulty": "hard"
+  },
+  {
+    "id": "legal_006",
+    "question": "Nghị định 116/2021/NĐ-CP quy định về vấn đề gì liên quan đến ma túy?",
+    "expected_answer": "Nghị định 116/2021/NĐ-CP quy định chi tiết một số điều của Luật Phòng, chống ma túy và Luật Xử lý vi phạm hành chính về cai nghiện ma túy.",
+    "expected_keywords": ["Nghị định 116", "2021", "cai nghiện", "phòng chống ma túy"],
+    "expected_doc_type": "legal",
+    "category": "nghị định",
+    "difficulty": "medium"
+  },
+  {
+    "id": "legal_007",
+    "question": "Người sử dụng trái phép chất ma tuý nhưng chưa đến mức bị truy cứu hình sự bị xử phạt như thế nào?",
+    "expected_answer": "Bị xử phạt vi phạm hành chính theo quy định, đồng thời có thể bị áp dụng biện pháp giáo dục tại xã, phường, thị trấn hoặc đưa vào cơ sở cai nghiện.",
+    "expected_keywords": ["vi phạm hành chính", "sử dụng ma tuý", "giáo dục"],
+    "expected_doc_type": "legal",
+    "category": "hình phạt pháp luật",
+    "difficulty": "medium"
+  },
+  {
+    "id": "news_001",
+    "question": "Ca sĩ Chi Dân bị bắt vì lý do gì?",
+    "expected_answer": "Ca sĩ Chi Dân bị bắt và khởi tố về tội tổ chức sử dụng trái phép chất ma tuý.",
+    "expected_keywords": ["Chi Dân", "bắt", "khởi tố", "ma tuý"],
+    "expected_doc_type": "news",
+    "category": "nghệ sĩ và ma túy",
+    "difficulty": "easy"
+  },
+  {
+    "id": "news_002",
+    "question": "Người mẫu An Tây bị truy tố những tội gì?",
+    "expected_answer": "Người mẫu An Tây (Andrea Aybar) bị truy tố về tội tổ chức sử dụng trái phép chất ma tuý và tàng trữ trái phép chất ma tuý.",
+    "expected_keywords": ["An Tây", "Andrea Aybar", "tàng trữ", "tổ chức sử dụng"],
+    "expected_doc_type": "news",
+    "category": "nghệ sĩ và ma túy",
+    "difficulty": "easy"
+  },
+  {
+    "id": "news_003",
+    "question": "Diễn viên Hữu Tín bị kết án bao nhiêu năm tù?",
+    "expected_answer": "Diễn viên Hữu Tín bị kết án 7 năm 6 tháng tù về tội tổ chức sử dụng ma tuý.",
+    "expected_keywords": ["Hữu Tín", "7 năm", "tù", "ma tuý"],
+    "expected_doc_type": "news",
+    "category": "nghệ sĩ và ma túy",
+    "difficulty": "easy"
+  },
+  {
+    "id": "news_004",
+    "question": "Ca sĩ Châu Việt Cường bị kết án bao nhiêu năm?",
+    "expected_answer": "Ca sĩ Châu Việt Cường bị kết án 13 năm tù giam.",
+    "expected_keywords": ["Châu Việt Cường", "13 năm", "tù giam"],
+    "expected_doc_type": "news",
+    "category": "nghệ sĩ và ma túy",
+    "difficulty": "easy"
+  },
+  {
+    "id": "news_005",
+    "question": "Ca sĩ Chu Bin bị bắt vì tội gì?",
+    "expected_answer": "Ca sĩ Chu Bin bị bắt tạm giam về tội tổ chức sử dụng ma tuý tại Quận 10.",
+    "expected_keywords": ["Chu Bin", "bắt tạm giam", "Quận 10", "ma tuý"],
+    "expected_doc_type": "news",
+    "category": "nghệ sĩ và ma túy",
+    "difficulty": "easy"
+  },
+  {
+    "id": "news_006",
+    "question": "Vụ án 4 tiếp viên hàng không liên quan đến ma tuý như thế nào?",
+    "expected_answer": "Bốn tiếp viên hàng không bị phát hiện xách ma tuý từ Pháp về Việt Nam, vụ án này được mở rộng điều tra và liên quan đến hàng trăm người, trong đó có nhiều nghệ sĩ như Chi Dân, An Tây.",
+    "expected_keywords": ["tiếp viên hàng không", "Pháp", "ma tuý", "Chi Dân"],
+    "expected_doc_type": "news",
+    "category": "vụ án lớn",
+    "difficulty": "medium"
+  },
+  {
+    "id": "news_007",
+    "question": "Nghệ sĩ nào dính dáng đến ma túy trong showbiz Việt Nam?",
+    "expected_answer": "Nhiều nghệ sĩ Việt Nam bị liên quan đến ma tuý như ca sĩ Chi Dân, người mẫu An Tây, diễn viên Hữu Tín, ca sĩ Châu Việt Cường, ca sĩ Chu Bin.",
+    "expected_keywords": ["Chi Dân", "An Tây", "Hữu Tín", "Châu Việt Cường", "showbiz"],
+    "expected_doc_type": "news",
+    "category": "nghệ sĩ và ma túy",
+    "difficulty": "easy"
+  },
+  {
+    "id": "news_008",
+    "question": "Tại sao nhiều nghệ sĩ lại sa ngã vào ma tuý?",
+    "expected_answer": "Nghệ sĩ chịu áp lực liên tục phải xuất hiện và tạo hình ảnh hoàn hảo, dễ rơi vào khủng hoảng tâm lý. Khi mất cân bằng, họ có thể tìm đến ma tuý như một lối thoát.",
+    "expected_keywords": ["áp lực", "tâm lý", "sa ngã", "nghệ sĩ"],
+    "expected_doc_type": "news",
+    "category": "phân tích xã hội",
+    "difficulty": "medium"
+  },
+  {
+    "id": "news_009",
+    "question": "Long Nhật là ai và tại sao bị bắt?",
+    "expected_answer": "Long Nhật là ca sĩ dòng nhạc bolero, quê hương, bị bắt liên quan đến tội tổ chức sử dụng trái phép chất ma tuý.",
+    "expected_keywords": ["Long Nhật", "bolero", "bắt", "ma tuý"],
+    "expected_doc_type": "news",
+    "category": "nghệ sĩ và ma túy",
+    "difficulty": "medium"
+  },
+  {
+    "id": "news_010",
+    "question": "Cô tiên từ thiện Trúc Phương bị bắt vì tội gì?",
+    "expected_answer": "Nguyễn Đỗ Trúc Phương bị khởi tố về tội tổ chức sử dụng trái phép chất ma tuý, liên quan đến chuyên án VN10 mở rộng từ vụ 4 tiếp viên hàng không.",
+    "expected_keywords": ["Trúc Phương", "cô tiên từ thiện", "tổ chức sử dụng", "VN10"],
+    "expected_doc_type": "news",
+    "category": "nghệ sĩ và ma túy",
+    "difficulty": "medium"
+  },
+  {
+    "id": "mixed_001",
+    "question": "Hành vi tổ chức sử dụng ma tuý bị phạt tù bao nhiêu năm và có những nghệ sĩ nào đã bị kết tội này?",
+    "expected_answer": "Tội tổ chức sử dụng trái phép chất ma tuý bị phạt tù từ 2 đến 7 năm. Các nghệ sĩ bị kết tội này gồm Chi Dân, An Tây, Hữu Tín, Chu Bin.",
+    "expected_keywords": ["tổ chức sử dụng", "phạt tù", "Chi Dân", "Hữu Tín"],
+    "expected_doc_type": null,
+    "category": "kết hợp pháp luật và tin tức",
+    "difficulty": "hard"
+  },
+  {
+    "id": "mixed_002",
+    "question": "Cảnh sát Nha Trang đang làm gì để phòng chống ma túy?",
+    "expected_answer": "Công an Nha Trang tăng cường rà soát, xét nghiệm ma tuý trong cộng đồng, khách sạn và người nước ngoài nhằm hưởng ứng Tháng hành động phòng chống ma tuý.",
+    "expected_keywords": ["Nha Trang", "xét nghiệm", "phòng chống", "cộng đồng"],
+    "expected_doc_type": "news",
+    "category": "phòng chống ma túy",
+    "difficulty": "medium"
+  },
+  {
+    "id": "edge_001",
+    "question": "Ma túy đá là gì và hình phạt cho tội sản xuất ma túy đá?",
+    "expected_answer": "Ma túy đá là methamphetamine (meth), một loại chất kích thích nguy hiểm. Tội sản xuất trái phép chất ma tuý bị phạt tù từ 5 năm đến tử hình tùy mức độ.",
+    "expected_keywords": ["methamphetamine", "sản xuất", "phạt tù", "tử hình"],
+    "expected_doc_type": null,
+    "category": "phân loại ma túy",
+    "difficulty": "hard"
   }
 ]

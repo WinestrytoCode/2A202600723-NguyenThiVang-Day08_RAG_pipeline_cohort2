@@ -16,6 +16,59 @@ Xây dựng một RAG pipeline thực tế, end-to-end, từ thu thập dữ li�
 
 ---
 
+## 🏛️ Kiến Trúc Hệ Thống & Kết Quả Dự Án Nhóm
+
+Hệ thống đã triển khai hoàn thiện pipeline RAG nâng cao kết hợp tìm kiếm lai (Hybrid Search dense + sparse), bộ phân hạng lại (Cross-Encoder Reranker) và cơ chế tự động Fallback.
+
+### Sơ Đồ Kiến Trúc Luồng (Mermaid Diagram)
+
+```mermaid
+graph TD
+    classDef client fill:#e1f5fe,stroke:#03a9f4,stroke-width:2px,color:#0277bd;
+    classDef server fill:#efebe9,stroke:#8d6e63,stroke-width:2px,color:#4e342e;
+    classDef db fill:#e8f5e9,stroke:#4caf50,stroke-width:2px,color:#1b5e20;
+    classDef model fill:#f3e5f5,stroke:#9c27b0,stroke-width:2px,color:#4a148c;
+    classDef pipe fill:#fff3e0,stroke:#ff9800,stroke-width:2px,color:#e65100;
+    
+    User([User Client]) -->|Search Query| WebUI[Vanilla JS Web App]
+    WebUI -->|HTTP POST /api/search| API[FastAPI Server]
+    API -->|Log Query| QueryLogger[Query Logger]
+    QueryLogger -->|failures/stats| JSONL[("query_failures.jsonl")]
+    
+    subgraph Retrieval ["Pipeline Tìm Kiếm Lai (Hybrid Retrieval)"]
+        API -->|Orchestrate| Retrieve[retrieve()]
+        Retrieve -->|Dense| Dense[Semantic Search ChromaDB]
+        Retrieve -->|Sparse| Sparse[Lexical Search BM25]
+        Dense & Sparse -->|Merge| Fusion[RRF Fusion]
+        Fusion -->|Rerank| Rerank[mMARCO Cross-Encoder Reranker]
+        Rerank -->|Score < 0.3| FallbackCheck{Fallback?}
+        FallbackCheck -->|Yes| PageIndex[PageIndex Vectorless]
+        FallbackCheck -->|No / Fallback Docs| FinalDocs[Final Context Chunks]
+    end
+    
+    subgraph Generation ["RAG Generation"]
+        API -->|Generate| Gen[generate_with_citation()]
+        FinalDocs --> Gen
+        Gen -->|Anti-Lost-in-Middle| Reorder[Document Reordering]
+        Reorder -->|Completion| LLM[gpt-4o-mini via litellm]
+    end
+    
+    class WebUI client;
+    class API,QueryLogger server;
+    class JSONL db;
+    class LLM model;
+    class Retrieve,Dense,Sparse,Fusion,Rerank,PageIndex,Gen,Reorder pipe;
+```
+
+### Kết Quả Đánh Giá A/B Benchmark (Tóm Tắt)
+Đánh giá trên bộ dữ liệu **Golden Dataset gồm 20 câu hỏi**:
+*   **Config A (Hybrid + Rerank):** NDCG@5 = **0.484**, MRR = **0.470**, Precision@3 = **0.433**, Điểm trung bình = **0.608**.
+*   **Config B (Hybrid không Rerank):** NDCG@5 = 0.387, MRR = 0.317, Precision@3 = 0.300, Điểm trung bình = 0.102.
+
+> 💡 *Chi tiết toàn bộ triển khai dự án nhóm và hướng dẫn chạy kiểm thử có tại file hướng dẫn riêng:* [group_project/README.md](file:///home/winie/2A202600723-NguyenThiVang-Day08_RAG_pipeline_cohort2/group_project/README.md)
+
+---
+
 ## Cấu Trúc Thư Mục
 
 ```

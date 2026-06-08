@@ -4,8 +4,10 @@ FastAPI Backend — DrugLaw Search Engine
 
 import sys
 import time
+import json
 from pathlib import Path
 from typing import Optional
+from datetime import datetime
 
 sys.path.append(str(Path(__file__).parent.parent.parent))
 
@@ -14,6 +16,34 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import FileResponse
 from pydantic import BaseModel
+
+# ── Live Query Failure Log path ────────────────────────────────────────────────
+LOG_FILE = Path(__file__).parent.parent / "evaluation" / "logs" / "query_failures.jsonl"
+LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
+
+
+def _log_live_query(query: str, api_response: dict) -> None:
+    """Log every user query and flag failures (top score < 0.3)."""
+    results = api_response.get("results", [])
+    top_score = results[0]["score"] if results else 0.0
+    is_failure = top_score < 0.3 or len(results) == 0
+    record = {
+        "timestamp": datetime.now().isoformat(),
+        "source": "live",
+        "query": query,
+        "mode": api_response.get("mode"),
+        "total_results": api_response.get("total", 0),
+        "elapsed_ms": api_response.get("elapsed_ms", 0),
+        "top_score": round(top_score, 4),
+        "is_failure": is_failure,
+        "failure_reasons": (
+            [f"Low top rerank score: {top_score:.2f} (< 0.3)"]
+            if is_failure and results else
+            ["No results returned"] if is_failure else []
+        ),
+    }
+    with open(LOG_FILE, "a", encoding="utf-8") as f:
+        f.write(json.dumps(record, ensure_ascii=False) + "\n")
 
 app = FastAPI(title="DrugLaw Search Engine API", version="1.0.0")
 
@@ -97,6 +127,31 @@ def health():
     }
 
 
+@app.get("/api/query-stats")
+def query_stats():
+    """Return live query failure statistics from the log file."""
+    if not LOG_FILE.exists():
+        return {"total": 0, "failures": 0, "failure_rate": 0.0, "recent_failures": []}
+
+    with open(LOG_FILE, encoding="utf-8") as f:
+        logs = [json.loads(line) for line in f if line.strip()]
+
+    live_logs = [l for l in logs if l.get("source") == "live"]
+    failures  = [l for l in live_logs if l.get("is_failure")]
+    recent_failures = sorted(failures, key=lambda x: x["timestamp"], reverse=True)[:5]
+
+    return {
+        "total": len(live_logs),
+        "failures": len(failures),
+        "failure_rate": round(len(failures) / len(live_logs), 3) if live_logs else 0.0,
+        "recent_failures": [
+            {"query": f["query"], "top_score": f["top_score"],
+             "reasons": f["failure_reasons"], "ts": f["timestamp"]}
+            for f in recent_failures
+        ],
+    }
+
+
 @app.post("/api/search", response_model=SearchResponse)
 def search(req: SearchRequest):
     if not req.query.strip():
@@ -150,7 +205,7 @@ def search(req: SearchRequest):
             retrieval_source=r.get("retrieval_source", "hybrid"),
         ))
 
-    return SearchResponse(
+    response = SearchResponse(
         query=req.query,
         results=results,
         elapsed_ms=round(elapsed_ms, 1),
@@ -158,6 +213,14 @@ def search(req: SearchRequest):
         mode=req.mode,
         reranked=req.use_rerank,
     )
+
+    # ── Step 4: Log query for accuracy tracking ─────────────────────────────
+    try:
+        _log_live_query(req.query, response.model_dump())
+    except Exception:
+        pass  # Never let logging break the search response
+
+    return response
 
 
 if __name__ == "__main__":

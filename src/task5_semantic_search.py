@@ -10,6 +10,15 @@ Yêu cầu:
 """
 
 
+_MODEL = None
+
+def get_model():
+    global _MODEL
+    if _MODEL is None:
+        from sentence_transformers import SentenceTransformer
+        _MODEL = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
+    return _MODEL
+
 def semantic_search(query: str, top_k: int = 10) -> list[dict]:
     """
     Tìm kiếm ngữ nghĩa sử dụng vector similarity.
@@ -27,10 +36,9 @@ def semantic_search(query: str, top_k: int = 10) -> list[dict]:
         Sorted by score descending.
     """
     import chromadb
-    from sentence_transformers import SentenceTransformer
     from pathlib import Path
 
-    model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
+    model = get_model()
     query_embedding = model.encode(query).tolist()
 
     db_path = Path(__file__).parent.parent / "data" / "chroma_db"
