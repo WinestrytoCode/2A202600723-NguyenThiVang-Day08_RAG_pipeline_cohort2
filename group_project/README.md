@@ -155,29 +155,36 @@ Từ bảng logs chi tiết tại [results.md](file:///home/winie/2A202600723-Ng
 
 ## 🚀 Hướng Dẫn Cài Đặt & Khởi Chạy
 
-### 1. Chuẩn Bị Môi Trường
-Cài đặt toàn bộ các thư viện liên quan:
-```bash
-pip install -r requirements.txt
-```
+Hệ thống hỗ trợ script tự động cài đặt toàn bộ môi trường và khởi dựng database chỉ mục một cách nhanh chóng.
 
-Cấu hình các API Key cần thiết trong file `.env` tại thư mục gốc:
+Cấu hình các API Key cần thiết trong file `.env` tại thư mục gốc trước khi chạy:
 ```env
 OPENAI_API_KEY=your_openai_key
 PAGEINDEX_API_KEY=your_pageindex_key
 ```
 
-### 2. Thu Thập Dữ Liệu & Indexing
-Chạy các scripts thu thập dữ liệu và lưu trữ vào Vector Store:
+### 1. Khởi chạy nhanh bằng Script Tự Động (Khuyên Dùng)
+Chỉ cần cấp quyền chạy và thực thi file `setup.sh`, script sẽ tự động khởi tạo môi trường ảo `.venv`, cài đặt thư viện cần thiết, crawl dữ liệu tin tức mới nhất, chuyển đổi văn bản pháp luật và build cơ sở dữ liệu vector:
 ```bash
-# 1. Tải văn bản pháp luật và tin tức báo chí
+# Cấp quyền và chạy setup
+chmod +x setup.sh
+./setup.sh
+```
+
+### 2. Thiết lập thủ công (Từng bước)
+Nếu muốn tự cài đặt thủ công từng bước, bạn có thể thực hiện theo các lệnh dưới đây:
+```bash
+# 1. Cài đặt các thư viện liên quan
+pip install -r requirements.txt
+
+# 2. Tải văn bản pháp luật và crawl tin tức báo chí
 python3 src/task1_collect_legal_docs.py
 python3 src/task2_crawl_news.py
 
-# 2. Chuẩn hóa dữ liệu sang Markdown
+# 3. Chuẩn hóa dữ liệu sang Markdown
 python3 src/task3_convert_markdown.py
 
-# 3. Phân đoạn và lập chỉ mục vào Vector Store
+# 4. Phân đoạn và lập chỉ mục vào Vector Store (ChromaDB)
 python3 src/task4_chunking_indexing.py
 ```
 
