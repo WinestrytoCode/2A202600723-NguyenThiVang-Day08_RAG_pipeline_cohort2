@@ -1,3 +1,10 @@
 docs/
 .env
 personal_project/858-vohuyenkhanhmay-personal/data
+
+.claude
+.venv
+
+*/__pycache__
+*/*/__pycache__
+group_project/evaluation/logs/query_failures.jsonl
