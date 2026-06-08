@@ -200,7 +200,7 @@ function renderCard(result, delay = 0) {
         openPdfModal(result.url, result.source);
       });
     } else {
-      srcName.innerHTML = `<a href="${result.url}" target="_blank" class="source-link" title="Mở bài báo gốc">🔗 ${result.source || 'Không rõ'} ↗</a>`;
+      srcName.innerHTML = `<a href="${result.url}" target="_blank" class="source-link" title="Mở văn bản gốc">🔗 ${result.source || 'Không rõ'} ↗</a>`;
     }
   } else {
     srcName.textContent  = result.source || 'Không rõ';
@@ -256,7 +256,7 @@ function renderCard(result, delay = 0) {
 
     // Make entire card content body clickable
     card.classList.add('clickable-card');
-    card.setAttribute('title', isLegal ? 'Bấm để xem PDF văn bản' : 'Bấm để mở bài báo gốc');
+    card.setAttribute('title', isLegal ? 'Bấm để xem PDF văn bản' : 'Bấm để mở văn bản gốc');
     card.addEventListener('click', (e) => {
       if (e.target.closest('.card-footer') || e.target.closest('.card-expanded')) {
         return;
