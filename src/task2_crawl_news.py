@@ -26,10 +26,11 @@ def setup_directory():
 
 # TODO: Điền danh sách URL bài báo cần crawl
 ARTICLE_URLS = [
-    # Ví dụ:
-    # "https://vnexpress.net/...",
-    # "https://tuoitre.vn/...",
-    # "https://thanhnien.vn/...",
+    "https://tuoitre.vn/nghe-si-va-ma-tuy-danh-doi-ca-su-nghiep-20241110091216503.htm",
+    "https://tuoitre.vn/ca-si-chi-dan-nguoi-mau-an-tay-bi-dieu-tra-vi-lien-quan-ma-tuy-20241110084535359.htm",
+    "https://tuoitre.vn/nguoi-mau-an-tay-bi-khoi-to-toi-to-chuc-su-dung-va-tang-tru-ma-tuy-20241114175653556.htm",
+    "https://tuoitre.vn/ca-si-chi-dan-bi-khoi-to-toi-to-chuc-su-dung-trai-phep-chat-ma-tuy-20241114172551525.htm",
+    "https://tuoitre.vn/kham-xet-noi-o-cua-ca-si-chi-dan-nguoi-mau-an-tay-20241110121124701.htm"
 ]
 
 
@@ -48,15 +49,20 @@ async def crawl_article(url: str) -> dict:
     from crawl4ai import AsyncWebCrawler
 
     # TODO: Implement crawling logic
-    # async with AsyncWebCrawler() as crawler:
-    #     result = await crawler.arun(url=url)
-    #     return {
-    #         "url": url,
-    #         "title": result.metadata.get("title", "Unknown"),
-    #         "date_crawled": datetime.now().isoformat(),
-    #         "content_markdown": result.markdown,
-    #     }
-    raise NotImplementedError("Implement crawl_article")
+    async with AsyncWebCrawler() as crawler:
+        result = await crawler.arun(url=url)
+        
+        # Crawl4AI result metadata might be a dict or not exist depending on the version
+        title = "Unknown"
+        if hasattr(result, 'metadata') and result.metadata:
+            title = result.metadata.get("title", "Unknown")
+            
+        return {
+            "url": url,
+            "title": title,
+            "date_crawled": datetime.now().isoformat(),
+            "content_markdown": result.markdown,
+        }
 
 
 async def crawl_all():

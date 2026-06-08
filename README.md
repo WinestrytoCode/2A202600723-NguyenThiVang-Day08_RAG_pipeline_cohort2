@@ -354,7 +354,7 @@ def generate_with_citation(query: str, context_chunks: list[dict]) -> str:
 ### Option A: Search Engine
 
 Xây dựng một search engine cho phép tìm kiếm thông tin pháp luật và tin tức về ma tuý với:
-- Giao diện web (Streamlit / Gradio)
+- Giao diện web (có UI/UX tốt, có demo được, không dùng notebook)
 - Hỗ trợ hybrid search + reranking
 - Hiển thị source và relevance score
 

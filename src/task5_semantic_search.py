@@ -26,37 +26,36 @@ def semantic_search(query: str, top_k: int = 10) -> list[dict]:
         }
         Sorted by score descending.
     """
-    # TODO: Implement semantic search
-    #
-    # Bước 1: Embed query bằng cùng model ở Task 4
-    # Bước 2: Query vector store (cosine similarity)
-    # Bước 3: Return top_k results
-    #
-    # Ví dụ với Weaviate:
-    # import weaviate
-    # from sentence_transformers import SentenceTransformer
-    #
-    # model = SentenceTransformer("BAAI/bge-m3")
-    # query_embedding = model.encode(query).tolist()
-    #
-    # client = weaviate.connect_to_local()
-    # collection = client.collections.get("DrugLawDocs")
-    #
-    # results = collection.query.near_vector(
-    #     near_vector=query_embedding,
-    #     limit=top_k,
-    #     return_metadata=MetadataQuery(distance=True)
-    # )
-    #
-    # return [
-    #     {
-    #         "content": obj.properties["content"],
-    #         "score": 1 - obj.metadata.distance,  # distance → similarity
-    #         "metadata": {"source": obj.properties["source"], ...}
-    #     }
-    #     for obj in results.objects
-    # ]
-    raise NotImplementedError("Implement semantic_search")
+    import chromadb
+    from sentence_transformers import SentenceTransformer
+    from pathlib import Path
+
+    model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
+    query_embedding = model.encode(query).tolist()
+
+    db_path = Path(__file__).parent.parent / "data" / "chroma_db"
+    client = chromadb.PersistentClient(path=str(db_path))
+    collection = client.get_or_create_collection(name="rag_collection")
+
+    results = collection.query(
+        query_embeddings=[query_embedding],
+        n_results=top_k,
+        include=["documents", "distances", "metadatas"]
+    )
+
+    formatted_results = []
+    if results['documents'] and len(results['documents'][0]) > 0:
+        for i in range(len(results['documents'][0])):
+            formatted_results.append({
+                "content": results['documents'][0][i],
+                # ChromaDB returns distance (usually L2), convert to similarity proxy
+                "score": 1.0 / (1.0 + results['distances'][0][i]),
+                "metadata": results['metadatas'][0][i]
+            })
+
+    # Sort descending by score
+    formatted_results.sort(key=lambda x: x["score"], reverse=True)
+    return formatted_results
 
 
 if __name__ == "__main__":
