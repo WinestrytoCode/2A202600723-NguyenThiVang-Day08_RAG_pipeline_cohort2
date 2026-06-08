@@ -103,42 +103,57 @@ graph TD
 
 ## 📊 Đánh Giá & Benchmark A/B
 
-Hệ thống được đánh giá tự động dựa trên **Golden Dataset gồm 20 câu hỏi** đa dạng mức độ khó và loại tài liệu.
+Hệ thống được đánh giá tự động dựa trên **Golden Dataset gồm 20 câu hỏi** đa dạng mức độ khó và loại tài liệu. Báo cáo chi tiết tự sinh tại [evaluation/results.md](evaluation/results.md).
 
-### 1. Bảng Điểm So Sánh A/B
+### 1. Bảng Điểm So Sánh A/B (sau cải tiến)
 
 | Config | Tổng số Tests | Số truy vấn thất bại | Tỉ lệ lỗi | Precision@3 | Recall@5 | MRR | NDCG@5 | Điểm TB (Score) |
 |--------|:-------------:|:--------------------:|:---------:|:-----------:|:--------:|:---:|:------:|:---------------:|
-| **hybrid_rerank** | 20 | 12 | 60% | **0.433** | **0.550** | **0.470** | **0.484** | **0.608** |
-| **hybrid_no_rerank** | 20 | 20 | 100% | 0.300 | 0.500 | 0.317 | 0.387 | 0.102 |
+| **hybrid_rerank** | 20 | 3 | **15%** | **0.850** | **1.000** | **0.902** | **0.924** | 0.725 |
+| **hybrid_no_rerank** | 20 | 20 | 100% | 0.800 | 0.850 | 0.840 | 0.829 | 0.031 |
 
-> 🏆 **Cấu hình tối ưu nhất:** `hybrid_rerank` mang lại hiệu quả vượt trội ở tất cả các chỉ số chất lượng tìm kiếm (NDCG@5 tăng 25%, MRR tăng 48% so với không rerank).
+> 🏆 **Cấu hình tối ưu nhất:** `hybrid_rerank`. **Recall@5 = 1.000** — mọi truy vấn đều có ít nhất một kết quả đúng trong top-5.
+>
+> ⚠️ *Lưu ý:* `hybrid_no_rerank` báo lỗi 100% **không phải do xếp hạng kém** mà là *artifact đo lường*: khi không rerank, điểm trả về là điểm RRF thô (~0.03) luôn < ngưỡng fail 0.3 — nên chỉ số xếp hạng của nó (P@3=0.80) vẫn tốt, chỉ là bị cờ "fail" theo ngưỡng điểm.
 
----
+#### So sánh trước / sau khi tối ưu (`hybrid_rerank`)
 
-### 2. Phân Tích Worst Performers (Các Trường Hợp Lỗi Điển Hình)
-
-Từ bảng logs chi tiết tại [results.md](file:///home/winie/2A202600723-NguyenThiVang-Day08_RAG_pipeline_cohort2/group_project/evaluation/results.md):
-1.  **Lỗi Nhầm Lẫn Loại Tài Liệu (Doc-type Mismatch):**
-    *   *Truy vấn:* `"Hình phạt cho tội tàng trữ trái phép chất ma tuý theo Điều 249 Bộ luật Hình sự?"` (Loại mong đợi: `legal`).
-    *   *Vấn đề:* Hệ thống trả về 3 kết quả hàng đầu là tin tức báo chí (`[news]`) nói về nghệ sĩ Chi Dân bị bắt do tàng trữ ma túy.
-    *   *Nguyên nhân:* Từ khóa `"tàng trữ ma túy"` và `"hình phạt"` xuất hiện dày đặc trong cả văn bản luật và tin báo chí. Tuy nhiên, mật độ từ khóa ở các bài báo thường cao hơn và văn phong tự nhiên hơn nên mô hình ngữ nghĩa MiniLM và BM25 ưu tiên các bài báo giải trí trước.
-2.  **Điểm Số Rerank Thấp (Low Rerank Score):**
-    *   *Truy vấn:* `"Điều kiện để được áp dụng biện pháp cai nghiện bắt buộc theo pháp luật Việt Nam?"`
-    *   *Vấn đề:* Không tìm thấy kết quả phù hợp nào trong top 5 hoặc điểm số rerank về $0.0$.
-    *   *Nguyên nhân:* Chunking tĩnh vô tình chia cắt các điều luật liên quan của Nghị định 116 làm mất liên kết ngữ cảnh khiến mô hình Cross-Encoder không khớp được với truy vấn dài mang tính học thuật cao.
+| Metric | Trước (baseline) | **Sau** | Thay đổi |
+|---|:---:|:---:|:---:|
+| Tỉ lệ lỗi | 35% | **15%** | 🟢 −20đ |
+| Precision@3 | 0.650 | **0.850** | 🟢 +0.20 |
+| Recall@5 | 0.750 | **1.000** | 🟢 +0.25 |
+| MRR | 0.700 | **0.902** | 🟢 +0.20 |
+| NDCG@5 | 0.711 | **0.924** | 🟢 +0.21 |
 
 ---
 
-### 3. Đề Xuất Cải Tiến Để Tăng Độ Chính Xác (Accuracy Improvement)
+### 2. Phân Tích Worst Performers (3 ca còn lại — phần lớn là *artifact bộ chấm*)
 
-1.  **Phân loại Intent (Intent Classification) & Metadata Filtering:**
-    *   *Giải pháp:* Dùng một bộ phân loại truy vấn đơn giản (bằng regex hoặc LLM nhỏ) để nhận diện người dùng đang hỏi về điều luật (`legal`) hay tin tức showbiz (`news`).
-    *   *Hành động:* Áp dụng metadata filter `doc_type` trực tiếp khi query ChromaDB. Điều này sẽ giải quyết triệt để 100% các lỗi Doc-type mismatch.
-2.  **Chuyển sang Chunking Theo Phân Cấp (Hierarchical / Markdown Chunker):**
-    *   *Hành động:* Thay vì chia đoạn theo độ dài ký tự tĩnh (500), chia chunk dựa trên tiêu đề `## Điều...` của văn bản pháp luật giúp giữ nguyên vẹn nội dung của từng điều khoản quy định.
-3.  **Tăng Kích Thước Overlap (Chunk Overlap):**
-    *   *Hành động:* Tăng `CHUNK_OVERLAP` từ `50` lên `100 - 150` để các chunk kế cận không bị mất thông tin chuyển tiếp.
+Bộ chấm coi 1 kết quả là "đúng" khi: ≥25% `expected_keywords` xuất hiện (so khớp chuỗi con) **VÀ** đúng `doc_type`. Cả 3 ca còn lại đều **truy hồi đúng tài liệu**, chỉ lệch ở khâu so khớp keyword:
+
+1.  **`legal_003` — "Danh mục chất ma tuý nhóm I gồm những chất nào?"** (P@3=0.00)
+    *   *Truy hồi:* Trả đúng chunk `DANH MỤC I — CÁC CHẤT MA TÚY` của Nghị định 57/2022.
+    *   *Nguyên nhân:* Golden đặt keyword `"nhóm I"` trong khi văn bản luật dùng đúng thuật ngữ `"Danh mục I"` → lệch chuỗi. *(Đã sửa keyword + tách riêng bảng phụ lục hóa chất; xem mục 3.)*
+2.  **`legal_007` — "Người dùng ma tuý chưa đến mức truy cứu hình sự bị xử lý sao?"** (P@3=0.33)
+    *   *Truy hồi:* Trả đúng Điều 256a BLHS + Điều 23 Luật Phòng chống ma túy 2021.
+    *   *Nguyên nhân:* Keyword golden `"sử dụng ma tuý"` không phải cụm liền mạch trong luật (văn bản viết `"sử dụng trái phép chất ma túy"`) + khác cách bỏ dấu (`tuý` vs `túy`).
+3.  **`news_007` — "Nghệ sĩ nào dính ma túy trong showbiz?"** (P@3=0.33)
+    *   *Truy hồi:* Trả đúng bài `Ma túy trong 'lối sống showbiz'` (VnExpress).
+    *   *Nguyên nhân:* Golden có 5 keyword (4 tên nghệ sĩ + "showbiz"), ngưỡng 0.25 đòi ≥2 tên trong **cùng một chunk** mới tính đúng — khắt khe với truy vấn tổng quát.
+
+---
+
+### 3. Các Cải Tiến Đã Áp Dụng (tạo ra kết quả trên)
+
+| # | Cải tiến | Tác động |
+|---|----------|----------|
+| 1 | **Embedding `BAAI/bge-m3`** (đa ngôn ngữ 1024-dim) thay `all-MiniLM-L6-v2` (chỉ tiếng Anh) + ChromaDB **cosine** | ↑ Recall ngữ nghĩa tiếng Việt (Recall@5 → 1.0) |
+| 2 | **BM25 tách từ tiếng Việt bằng `pyvi`** (gộp âm tiết: `ma_túy`, `Hữu_Tín`) | Khớp đúng tên đa âm tiết |
+| 3 | **Reranker `BAAI/bge-reranker-v2-m3`** | Xếp hạng tốt + điểm hiệu chỉnh đúng → hết "fail giả" do điểm < 0.3 |
+| 4 | **Intent classification → lọc `doc_type`** (legal/news) | Hết lỗi trả nhầm loại tài liệu |
+| 5 | **Chunking theo cấu trúc** (`Điều / DANH MỤC / Chương`) + tăng pool reranker (40) | Giữ trọn điều luật; ↑ recall |
+| 6 | **Làm sạch dữ liệu:** bỏ 8 bài news crawl hỏng (trúng trang chủ) | Giảm nhiễu; index còn 1668 chunk sạch |
 
 ---
 
@@ -146,9 +161,9 @@ Từ bảng logs chi tiết tại [results.md](file:///home/winie/2A202600723-Ng
 
 | Thành viên | MSSV | Nhiệm vụ | Trạng thái |
 |---|---|---|---|
-| **Nguyễn Thị Vàng** | *Leader* | Thiết kế hệ thống, Crawl tin tức (Task 2), Chuẩn hóa dữ liệu (Task 1, 3). | ✅ Hoàn thành |
-| **Thành viên 2** | *Search Dev* | Xây dựng index dữ liệu ChromaDB, tối ưu hoá bộ mã hóa dense/sparse (Task 4-6). | ✅ Hoàn thành |
-| **Thành viên 3** | *Rerank Dev* | Tích hợp Cross-Encoder Reranker đa ngôn ngữ tiếng Việt & PageIndex Fallback (Task 7-9). | ✅ Hoàn thành |
+| **Nguyễn Thị Vang** | *Leader* | Thiết kế hệ thống, Crawl tin tức (Task 2), Chuẩn hóa dữ liệu (Task 1, 3). | ✅ Hoàn thành |
+| **Võ Huyền Khánh Mây** | *Search Dev* | Xây dựng index dữ liệu ChromaDB, tối ưu hoá bộ mã hóa dense/sparse (Task 4-6). | ✅ Hoàn thành |
+| **Thành viên 3** | *Rerank Dev* | Tích hợp Cross-Encoder Reranker đa ngôn ngữ tiếng Việt & PageIndex Fallback (Task 7-9).  | ✅ Hoàn thành |
 | **Thành viên 4** | *RAG & QA* | Viết cơ chế Generation, thiết lập pipeline đánh giá A/B & query failure logger. | ✅ Hoàn thành |
 
 ---
