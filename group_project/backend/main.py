@@ -49,6 +49,9 @@ def _log_live_query(query: str, api_response: dict) -> None:
 _URL_CACHE = {}
 
 def get_url_for_source(source_name: str, doc_type: str) -> Optional[str]:
+    if doc_type == "legal":
+        pdf_name = source_name.replace(".md", ".pdf")
+        return f"/pdf/{pdf_name}"
     if doc_type != "news":
         return None
     if source_name in _URL_CACHE:
@@ -80,6 +83,10 @@ app.add_middleware(
 # Mount frontend static files
 frontend_dir = Path(__file__).parent.parent / "frontend"
 app.mount("/static", StaticFiles(directory=str(frontend_dir)), name="static")
+
+# Mount PDF files directory
+pdf_dir = Path(__file__).parent.parent.parent / "data" / "landing" / "legal"
+app.mount("/pdf", StaticFiles(directory=str(pdf_dir)), name="pdf")
 
 
 # ── Lazy-load & cache các model ───────────────────────────────────────────────

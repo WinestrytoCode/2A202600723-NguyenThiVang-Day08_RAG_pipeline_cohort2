@@ -264,6 +264,23 @@
   </article>
 </template>
 
+<!-- ── PDF Modal ────────────────────────────────────────────────────────── -->
+<div class="pdf-modal" id="pdf-modal" hidden>
+  <div class="pdf-modal-backdrop" id="pdf-modal-backdrop"></div>
+  <div class="pdf-modal-container">
+    <div class="pdf-modal-header">
+      <h3 class="pdf-modal-title" id="pdf-modal-title">Xem Văn Bản Pháp Luật</h3>
+      <div class="pdf-modal-actions">
+        <a href="#" target="_blank" class="pdf-modal-btn pdf-external-link" id="pdf-external-link" title="Mở trong tab mới">↗ Mở rộng</a>
+        <button class="pdf-modal-btn pdf-close-btn" id="pdf-close-btn" title="Đóng">✕</button>
+      </div>
+    </div>
+    <div class="pdf-modal-body">
+      <iframe id="pdf-iframe" src="" frameborder="0"></iframe>
+    </div>
+  </div>
+</div>
+
 <script src="/static/app.js?v=3"></script>
 </body>
 </html>

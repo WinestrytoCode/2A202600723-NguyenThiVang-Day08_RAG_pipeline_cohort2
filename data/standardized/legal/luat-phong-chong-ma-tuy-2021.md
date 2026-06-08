@@ -1,1202 +1,1661 @@
-Luat Phong, chong ma tuy 2021 (73/2021/QH15)
+4
 
-Luat Phong, chong ma tuy 2021
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
 
-Dieu 1. Pham vi dieu chinh
+QUỐC HỘI
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+Luật số: 73/2021/QH14
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+LUẬT
+PHÒNG, CHỐNG MA TÚY
 
-Dieu 2. Giai thich tu ngu
+Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+Quốc hội ban hành Luật Phòng, chống ma túy.
 
-phu ban hanh.
+Chương I
+NHỮNG QUY ĐỊNH CHUNG
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+Điều 1. Phạm vi điều chỉnh
 
-thuoc vao cac chat nay.
+Luật này quy định về phòng, chống ma túy; quản lý người sử dụng trái phép
+chất  ma  túy;  cai  nghiện  ma  túy;  trách  nhiệm  của  cá  nhân,  gia  đình,  cơ  quan,  tổ
+chức trong phòng, chống ma túy; quản lý nhà nước và hợp tác quốc tế về phòng,
+chống ma túy.
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+Điều 2. Giải thích từ ngữ
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
-chong ma tuy 2021
+1. Chất ma túy là chất gây nghiện, chất hướng thần được quy định trong danh
 
-Dieu 1. Pham vi dieu chinh
+mục chất ma túy do Chính phủ ban hành.
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+2. Chất gây nghiện là chất kích thích hoặc ức chế thần kinh, dễ gây tình trạng
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+nghiện đối với người sử dụng.
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+3. Chất hướng thần là chất kích thích hoặc ức chế thần kinh hoặc gây ảo giác,
 
-Dieu 2. Giai thich tu ngu
+nếu sử dụng nhiều lần có thể dẫn tới tình trạng nghiện đối với người sử dụng.
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+4. Tiền chất là hóa chất không thể thiếu được trong quá trình điều chế, sản xuất
 
-phu ban hanh.
+chất ma túy được quy định trong danh mục tiền chất do Chính phủ ban hành.
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+5. Thuốc thú y có chứa chất ma túy, tiền chất là thuốc thú y có chứa các chất
 
-thuoc vao cac chat nay.
+được quy định tại các khoản 2, 3 và 4 của Điều này.
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+6. Cây có chứa chất ma túy là cây thuốc phiện, cây côca, cây cần sa và các loại
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+cây khác có chứa chất ma túy do Chính phủ quy định.
 
-chong ma tuy 2021
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
 
-Dieu 1. Pham vi dieu chinh
+5
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+7. Phòng, chống ma túy là phòng ngừa, ngăn chặn, đấu tranh chống tội phạm
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+và tệ nạn ma túy; kiểm soát các hoạt động hợp pháp liên quan đến ma túy.
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+8. Tệ nạn ma túy là việc sử dụng trái phép chất ma túy, nghiện ma túy và các
+hành  vi  vi  phạm  pháp  luật  về  ma  túy  mà  chưa  đến  mức  hoặc  không  bị  truy  cứu
+trách nhiệm hình sự.
 
-Dieu 2. Giai thich tu ngu
+9. Kiểm soát các hoạt động hợp pháp liên quan đến ma túy là việc cho phép,
+theo dõi, kiểm tra, giám sát các hoạt động hợp pháp liên quan đến ma túy và phòng
+ngừa, ngăn chặn việc lợi dụng các hoạt động đó vào mục đích khác.
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+10. Người sử dụng trái phép chất ma túy là người có hành vi sử dụng chất ma
+túy  mà  không  được  sự  cho  phép  của  người  hoặc  cơ  quan  chuyên  môn  có  thẩm
+quyền và xét nghiệm chất ma túy trong cơ thể có kết quả dương tính.
 
-phu ban hanh.
+11. Xét nghiệm chất ma túy trong cơ thể là việc thực hiện các kỹ thuật chuyên
+môn nhằm xác định chất ma túy trong cơ thể thông qua mẫu nước tiểu, mẫu máu
+hoặc các mẫu vật khác của cơ thể người.
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+12.  Người  nghiện  ma  túy  là  người  sử  dụng  chất  ma  túy,  thuốc  gây  nghiện,
 
-thuoc vao cac chat nay.
+thuốc hướng thần và bị lệ thuộc vào các chất này.
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+13. Cai nghiện ma túy là quá trình thực hiện các hoạt động hỗ trợ về y tế, tâm
+lý, xã hội, giúp người nghiện ma túy dừng sử dụng chất ma túy, thuốc gây nghiện,
+thuốc hướng thần, phục hồi thể chất, tinh thần, nâng cao nhận thức, thay đổi hành
+vi để chấm dứt việc sử dụng trái phép các chất này.
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+14. Cơ sở cai nghiện ma túy là cơ sở được thành lập để thực hiện đầy đủ quy
+trình  cai  nghiện  theo  quy  định  của  Luật  này,  bao  gồm  cơ  sở  cai  nghiện  ma  túy
+công lập và cơ sở cai nghiện ma túy tự nguyện.
 
-chong ma tuy 2021
+Điều 3. Chính sách của Nhà nước về phòng, chống ma túy
 
-Dieu 1. Pham vi dieu chinh
+1. Thực hiện đồng bộ các biện pháp phòng, chống ma túy; kết hợp với phòng,
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+chống HIV/AIDS và các tệ nạn xã hội khác.
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+2. Tăng cường hoạt động tuyên truyền, giáo dục về công tác phòng, chống ma
+túy; khuyến khích tổ chức, cá nhân tham gia tuyên truyền, giáo dục phòng, chống
+ma túy.
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+3. Ưu tiên nguồn lực phòng, chống ma túy cho vùng đồng bào dân tộc thiểu số
+và miền núi, vùng sâu, vùng xa, hải đảo, khu vực biên giới và địa bàn phức tạp về
+ma túy.
 
-Dieu 2. Giai thich tu ngu
+6
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
 
-phu ban hanh.
+4. Cán bộ, chiến sĩ thuộc cơ quan chuyên trách phòng, chống tội phạm về ma
+túy, người làm công tác cai nghiện ma túy trong các cơ sở cai nghiện ma túy công
+lập được hưởng chế độ, chính sách ưu đãi phù hợp với tính chất nhiệm vụ, địa bàn
+hoạt động theo quy định của Chính phủ.
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+5. Bảo vệ, hỗ trợ cá nhân, gia đình, cơ quan, tổ chức tham gia phòng, chống
 
-thuoc vao cac chat nay.
+ma túy.
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+6. Quản lý chặt chẽ người sử dụng trái phép chất ma túy, người nghiện ma túy;
+khuyến  khích  người nghiện  ma  túy  tự  nguyện  cai nghiện  ma  túy, điều trị nghiện
+các chất dạng thuốc phiện bằng thuốc thay thế; khuyến khích cá nhân, gia đình, cơ
+quan, tổ chức tham gia, hỗ trợ hoạt động cai nghiện ma túy, quản lý sau cai nghiện
+ma túy.
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+7. Bảo đảm kinh phí cai nghiện ma túy bắt buộc; hỗ trợ kinh phí cai nghiện ma
 
-chong ma tuy 2021
+túy tự nguyện, kinh phí quản lý sau cai nghiện ma túy.
 
-Dieu 1. Pham vi dieu chinh
+8. Tổ chức, cá nhân trong nước và ngoài nước đầu tư vào hoạt động cai nghiện
+ma túy, hỗ trợ quản lý sau cai nghiện ma túy, phòng, chống tái nghiện ma túy được
+miễn, giảm tiền thuê đất, thuế thu nhập doanh nghiệp theo quy định của pháp luật.
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+9. Khuyến khích nghiên cứu khoa học, phát triển công nghệ và ứng dụng công
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+nghệ cao trong phòng, chống ma túy.
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+10. Khen thưởng cá nhân, tổ chức, cơ quan có thành tích trong phòng, chống
 
-Dieu 2. Giai thich tu ngu
+ma túy.
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+Điều 4. Nguồn tài chính cho phòng, chống ma túy
 
-phu ban hanh.
+1. Ngân sách nhà nước.
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+2. Nguồn tài trợ, viện trợ, đầu tư, tặng cho của tổ chức, cá nhân trong nước và
 
-thuoc vao cac chat nay.
+ngoài nước.
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+3. Chi trả của gia đình, người nghiện ma túy.
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+4. Các nguồn tài chính hợp pháp khác.
 
-chong ma tuy 2021
+Điều 5. Các hành vi bị nghiêm cấm
 
-Dieu 1. Pham vi dieu chinh
+1. Trồng cây có chứa chất ma túy, hướng dẫn trồng cây có chứa chất ma túy.
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+2.  Nghiên  cứu,  giám  định,  kiểm  nghiệm,  kiểm  định,  sản  xuất,  tàng  trữ,  vận
+chuyển,  bảo  quản,  tồn  trữ,  mua  bán,  phân  phối,  xử  lý,  trao  đổi,  xuất  khẩu,  nhập
+khẩu, tạm nhập, tái xuất, tạm xuất, tái nhập, quá cảnh trái phép chất ma túy, tiền
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+7
 
-Dieu 2. Giai thich tu ngu
+chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là
+dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc, thuốc thú y
+có chứa chất ma túy, tiền chất.
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+3.  Chiếm  đoạt  chất  ma  túy,  tiền  chất,  thuốc  gây  nghiện,  thuốc  hướng  thần,
+thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng
+thần, tiền chất dùng làm thuốc, thuốc thú y có chứa chất ma túy, tiền chất.
 
-phu ban hanh.
+4. Giao nhận, quản lý, kiểm soát, lưu giữ, cấp phát, bảo quản chất ma túy, tiền
+chất trái quy định của pháp luật; cho phép người sử dụng chất ma túy, thuốc gây
+nghiện hoặc thuốc hướng thần trái quy định của pháp luật.
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+5. Sử dụng, tổ chức sử dụng trái phép chất ma túy; cưỡng bức, lôi kéo người
+khác sử dụng trái phép chất ma túy; chứa chấp, hỗ trợ việc sử dụng trái phép chất
+ma túy.
 
-thuoc vao cac chat nay.
+6. Sản xuất, tàng trữ, vận chuyển, mua bán phương tiện, dụng cụ dùng vào việc
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+sản xuất hoặc sử dụng trái phép chất ma túy.
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+7. Chống lại hoặc cản trở việc xét nghiệm chất ma túy trong cơ thể, xác định
+tình trạng nghiện ma túy, quản lý người sử dụng trái phép chất ma túy, cai nghiện
+ma túy, quản lý sau cai nghiện ma túy.
 
-chong ma tuy 2021
+8. Trả thù hoặc cản trở người thực thi nhiệm vụ phòng, chống ma túy, người
 
-Dieu 1. Pham vi dieu chinh
+tham gia phòng, chống ma túy.
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+9. Lợi dụng chức vụ, quyền hạn, nghề nghiệp để vi phạm pháp luật về phòng,
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+chống ma túy.
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+10. Hướng dẫn sản xuất, hướng dẫn sử dụng trái phép chất ma túy; quảng cáo,
 
-Dieu 2. Giai thich tu ngu
+tiếp thị chất ma túy.
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+11.  Kỳ  thị  người  sử  dụng  trái  phép  chất  ma  túy,  người  cai  nghiện  ma  túy,
 
-phu ban hanh.
+người sau cai nghiện ma túy.
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+12. Các hành vi bị nghiêm cấm khác do luật định liên quan đến ma túy.
 
-thuoc vao cac chat nay.
+Chương II
+TRÁCH NHIỆM PHÒNG, CHỐNG MA TÚY
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+Điều 6. Trách nhiệm của cá nhân, gia đình
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+8
 
-chong ma tuy 2021
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
 
-Dieu 1. Pham vi dieu chinh
+1. Tuyên truyền, giáo dục thành viên trong gia đình, người thân về tác hại của
+ma túy và thực hiện quy định của pháp luật về phòng, chống ma túy; quản lý, ngăn
+chặn thành viên trong gia đình vi phạm pháp luật về phòng, chống ma túy.
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+2.  Thực  hiện  đúng  chỉ  định  của  người  có  thẩm  quyền  về  sử  dụng  thuốc  gây
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+nghiện, thuốc hướng thần, thuốc tiền chất, thuốc thú y có chứa chất ma túy, tiền chất.
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+3. Hợp tác với cơ quan chức năng trong đấu tranh với tội phạm và tệ nạn ma
+túy;  tham  gia  hỗ  trợ  hoạt  động  cai  nghiện  ma  túy  tự  nguyện  tại  gia  đình,  cộng
+đồng,  cai  nghiện  ma  túy  tại  cơ  sở  cai  nghiện  ma  túy  và  điều  trị  nghiện  các  chất
+dạng thuốc phiện bằng thuốc thay thế; theo dõi, giúp đỡ người sau cai nghiện ma
+túy hòa nhập cộng đồng; phòng, chống tái nghiện ma túy.
 
-Dieu 2. Giai thich tu ngu
+4. Cung cấp kịp thời thông tin về tội phạm, tệ nạn ma túy và việc trồng cây có
+chứa  chất  ma  túy  cho  cơ  quan  công  an  hoặc  cơ  quan  nhà  nước  có  thẩm  quyền;
+tham gia xóa bỏ cây có chứa chất ma túy do chính quyền địa phương tổ chức.
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+Điều 7. Trách nhiệm của cơ quan nhà nước
 
-phu ban hanh.
+1. Tổ chức phòng, chống ma túy trong cơ quan, đơn vị; phòng ngừa, ngăn chặn
+cán bộ, công chức, viên chức, người lao động thuộc quyền quản lý và cán bộ, chiến
+sĩ thuộc lực lượng vũ trang nhân dân vi phạm pháp luật về phòng, chống ma túy;
+tuyên truyền, vận động Nhân dân phát hiện, tố giác, đấu tranh với tội phạm và tệ
+nạn ma túy.
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+2. Tổ chức thực hiện chủ trương, chính sách của Nhà nước về quy hoạch, phát
+triển kinh tế - xã hội để thay thế việc trồng cây có chứa chất ma túy tại các vùng
+xóa bỏ cây có chứa chất ma túy.
 
-thuoc vao cac chat nay.
+Điều 8. Trách nhiệm của cơ sở giáo dục
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+1. Tổ chức thực hiện chương trình giáo dục về phòng, chống ma túy; phổ biến,
+giáo dục pháp luật về phòng, chống ma túy cho học sinh, sinh viên, học viên; quản
+lý chặt chẽ, ngăn chặn học sinh, sinh viên, học viên vi phạm pháp luật về phòng,
+chống ma túy.
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+2. Phối hợp với gia đình, cơ quan, tổ chức và chính quyền địa phương để quản
 
-chong ma tuy 2021
+lý, giáo dục học sinh, sinh viên, học viên về phòng, chống ma túy.
 
-Dieu 1. Pham vi dieu chinh
+3. Phối hợp với cơ quan, tổ chức, cá nhân có thẩm quyền tổ chức xét nghiệm
+chất ma túy trong cơ thể khi cần thiết để phát hiện học sinh, sinh viên, học viên sử
+dụng trái phép chất ma túy.
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+9
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+Điều 9. Trách nhiệm của cơ quan báo chí
 
-Dieu 2. Giai thich tu ngu
+Cơ  quan  báo  chí có trách  nhiệm  phối  hợp  với  cơ  quan,  tổ  chức  có  liên  quan
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+tuyên truyền chủ trương, chính sách, pháp luật về phòng, chống ma túy.
 
-phu ban hanh.
+Điều 10. Trách nhiệm của Mặt trận Tổ quốc Việt Nam, các tổ chức thành
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+viên của Mặt trận và tổ chức khác
 
-thuoc vao cac chat nay.
+1. Tổ chức và phối hợp với cơ quan có thẩm quyền tuyên truyền, phổ biến kiến
+thức, pháp luật về phòng, chống ma túy trong Nhân dân; vận động Nhân dân tham
+gia phòng, chống ma túy và thực hiện các phong trào phòng, chống ma túy.
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+2. Phòng ngừa, ngăn chặn người của tổ chức mình và mọi công dân vi phạm
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+pháp luật về phòng, chống ma túy.
 
-chong ma tuy 2021
+3. Phối hợp với chính quyền địa phương các cấp, cơ quan có thẩm quyền vận
+động người nghiện ma túy thực hiện biện pháp cai nghiện ma túy, điều trị nghiện
+các chất dạng thuốc phiện bằng thuốc thay thế; tham gia cảm  hóa, giáo dục, dạy
+nghề, tìm việc làm và giúp đỡ người sau cai nghiện ma túy hòa nhập cộng đồng;
+phòng, chống tái nghiện ma túy.
 
-Dieu 1. Pham vi dieu chinh
+Điều 11. Cơ quan chuyên trách phòng, chống tội phạm về ma túy
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+1. Cơ quan chuyên trách phòng, chống tội phạm về ma túy bao gồm:
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+a) Cơ quan  chuyên trách phòng,  chống tội phạm  về  ma  túy  thuộc  Công an
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+nhân dân;
 
-Dieu 2. Giai thich tu ngu
+b) Cơ quan chuyên trách phòng, chống tội phạm về ma túy thuộc Bộ đội Biên
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+phòng, Cảnh sát biển Việt Nam và Hải quan.
 
-phu ban hanh.
+2. Cơ quan chuyên trách phòng, chống tội phạm về ma túy thuộc Công an nhân
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+dân, trong phạm vi nhiệm vụ, quyền hạn của mình, chủ trì, phối hợp với cơ quan,
+tổ chức có liên quan thực hiện các hoạt động phòng ngừa, ngăn chặn và đấu tranh
+chống tội phạm về ma túy.
 
-thuoc vao cac chat nay.
+3. Cơ quan chuyên trách phòng, chống tội phạm về ma túy thuộc Bộ đội Biên
+phòng, Cảnh sát biển Việt Nam, Hải quan, trong phạm vi nhiệm vụ, quyền hạn của
+mình, chủ trì, phối hợp với cơ quan công an, cơ quan, tổ chức khác có liên quan
+thực hiện các hoạt động phòng ngừa, ngăn chặn và đấu tranh chống tội phạm về
+ma túy tại khu vực hoặc địa bàn quản lý, kiểm soát.
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+10
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
 
-chong ma tuy 2021
+4.  Trên  cùng  một địa  bàn  khi phát  hiện  hành  vi  vi phạm  pháp  luật liên quan
+đến nhiệm vụ, quyền hạn của nhiều cơ quan thì cơ quan phát hiện trước có trách
+nhiệm  xử  lý  theo  thẩm  quyền  do  pháp  luật  quy  định;  trường  hợp  vụ  việc  không
+thuộc thẩm quyền của mình thì chuyển giao hồ sơ, người, tang vật vi phạm pháp
+luật cho cơ quan có thẩm quyền chủ trì giải quyết.
 
-Dieu 1. Pham vi dieu chinh
+5.  Chính  phủ  quy  định  việc  phối  hợp  của  các  cơ  quan  chuyên  trách  phòng,
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+chống tội phạm về ma túy.
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+Chương III
+KIỂM SOÁT CÁC HOẠT ĐỘNG HỢP PHÁP
+LIÊN QUAN ĐẾN MA TÚY
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+Điều 12. Các hoạt động hợp pháp liên quan đến ma túy
 
-Dieu 2. Giai thich tu ngu
+1. Hoạt động hợp pháp liên quan đến ma túy là hoạt động được cơ quan quản
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+lý nhà nước có thẩm quyền cho phép, bao gồm:
 
-phu ban hanh.
+a)  Nghiên  cứu,  giám  định,  kiểm  nghiệm,  kiểm  định,  sản  xuất  chất  ma  túy
+(không  bao  gồm  trồng  cây  có  chứa  chất  ma  túy),  tiền  chất,  thuốc  gây  nghiện,
+thuốc  hướng  thần,  thuốc  tiền  chất,  nguyên  liệu  làm  thuốc  là  dược  chất  gây
+nghiện, dược chất hướng thần, tiền chất dùng làm thuốc và thuốc thú y có chứa
+chất ma túy, tiền chất;
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+b) Vận chuyển, bảo quản, tồn trữ, mua bán, phân phối, sử dụng, xử lý, trao đổi
 
-thuoc vao cac chat nay.
+chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên
+liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm
+thuốc và thuốc thú y có chứa chất ma túy, tiền chất;
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+c) Nhập khẩu, xuất khẩu, tạm nhập, tái xuất, tạm xuất, tái nhập, quá cảnh chất
+ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu
+làm  thuốc  là  dược  chất  gây  nghiện,  dược  chất  hướng  thần,  tiền  chất  dùng  làm
+thuốc và thuốc thú y có chứa chất ma túy, tiền chất.
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+2.  Hoạt động hợp pháp liên quan đến  ma  túy  quy định tại khoản  1  Điều này
+được kiểm  soát chặt chẽ theo  quy  định  của  Luật này  và  quy định  khác  của  pháp
+luật có liên quan.
 
-chong ma tuy 2021
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
 
-Dieu 1. Pham vi dieu chinh
+11
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+Điều  13.  Kiểm  soát  hoạt  động  nghiên  cứu,  giám  định,  sản  xuất  chất  ma
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+túy, tiền chất
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+1.  Hoạt  động  nghiên  cứu,  giám  định,  sản  xuất  chất  ma  túy  (không  bao  gồm
+trồng  cây  có  chứa  chất  ma  túy),  tiền  chất  phải  được  cơ  quan  nhà  nước  có  thẩm
+quyền theo dõi, kiểm tra, giám sát.
 
-Dieu 2. Giai thich tu ngu
+2. Chính phủ quy định cơ quan có thẩm quyền cho phép, trình tự, thủ tục cho
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+phép, việc theo dõi, kiểm tra, giám sát quy định tại khoản 1 Điều này.
 
-phu ban hanh.
+Điều 14. Kiểm soát hoạt động vận chuyển chất ma túy, tiền chất
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+1.  Cơ  quan,  tổ  chức,  cá  nhân đã  được  cơ  quan  nhà nước  có thẩm  quyền  cho
+phép  thì được  vận  chuyển  chất  ma  túy,  tiền  chất;  khi  thực  hiện  việc  vận  chuyển
+phải đóng gói, niêm phong theo quy định của cơ quan có thẩm quyền; chịu trách
+nhiệm về số lượng, chất lượng, có biện pháp bảo vệ an toàn, không để bị thất thoát
+trong quá trình vận chuyển và chịu sự theo dõi, kiểm tra, giám sát của cơ quan nhà
+nước có thẩm quyền.
 
-thuoc vao cac chat nay.
+2. Chính phủ quy định chi tiết Điều này.
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+Điều  15.  Kiểm  soát  hoạt  động  liên  quan  đến  thuốc  gây  nghiện,  thuốc
+hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện,
+dược chất hướng thần, tiền chất dùng làm thuốc
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+Việc kiểm soát hoạt động liên quan đến thuốc gây nghiện, thuốc hướng thần,
+thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng
+thần, tiền chất dùng làm thuốc thực hiện theo quy định của pháp luật về dược, trừ
+hoạt động quy định tại điểm b khoản 1 và khoản 2 Điều 17 của Luật này.
 
-chong ma tuy 2021
+Điều 16. Kiểm soát hoạt động liên quan đến thuốc thú y có chứa chất ma
 
-Dieu 1. Pham vi dieu chinh
+túy, tiền chất
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+Việc kiểm soát hoạt động liên quan đến thuốc thú y có chứa chất ma túy, tiền
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+chất thực hiện theo quy định của Chính phủ.
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+Điều 17. Kiểm soát hoạt động nhập khẩu, xuất khẩu, tạm nhập, tái xuất,
+tạm xuất, tái nhập, quá cảnh chất ma túy, tiền chất, thuốc gây nghiện, thuốc
+hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện,
+dược chất hướng thần, tiền chất dùng làm thuốc
 
-Dieu 2. Giai thich tu ngu
+1. Các hoạt động sau đây phải được cơ quan có thẩm quyền cho phép:
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+12
 
-phu ban hanh.
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+a)  Nhập  khẩu, xuất  khẩu,  tạm  nhập, tái  xuất,  tạm  xuất,  tái  nhập chất  ma  túy,
 
-thuoc vao cac chat nay.
+tiền chất;
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+b) Tạm nhập, tái xuất, tạm xuất, tái nhập thuốc gây nghiện, thuốc hướng thần,
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng
+thần, tiền chất dùng làm thuốc.
 
-chong ma tuy 2021
+2.  Hoạt  động  quá  cảnh  lãnh  thổ  Việt  Nam  chất  ma  túy,  tiền  chất,  thuốc  gây
 
-Dieu 1. Pham vi dieu chinh
+nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây
+nghiện, dược chất hướng thần, tiền chất dùng làm thuốc phải theo đúng hành trình
+đã ghi trong giấy phép quá cảnh. Cơ quan, tổ chức thực hiện việc quá cảnh phải
+làm thủ tục, chịu sự kiểm soát của cơ quan Hải quan và cơ quan có thẩm quyền của
+Việt Nam.
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+3. Chính phủ quy định chi tiết Điều này.
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+Điều 18. Lập hồ sơ các hoạt động hợp pháp liên quan đến ma túy
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+Cơ quan, tổ chức, cá nhân khi tiến hành hoạt động quy định tại khoản 1 Điều 12
 
-Dieu 2. Giai thich tu ngu
+của Luật này có trách nhiệm lập hồ sơ và báo cáo theo quy định của Chính phủ.
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+Điều 19. Kiểm soát hoạt động hợp pháp liên quan đến ma túy vì mục đích
 
-phu ban hanh.
+quốc phòng, an ninh
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+Hoạt động nghiên cứu, giám định, sản xuất, vận chuyển, tồn trữ, bảo quản, sử
 
-thuoc vao cac chat nay.
+dụng, nhập khẩu, xuất khẩu, tạm nhập, tái xuất, tạm xuất, tái nhập, quá cảnh chất
+ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu
+làm  thuốc  là  dược  chất  gây  nghiện,  dược  chất  hướng  thần,  tiền  chất  dùng  làm
+thuốc, thuốc thú y có chứa chất ma túy, tiền chất vì mục đích quốc phòng, an ninh
+thực hiện theo quy định của Chính phủ.
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+Điều 20. Kiểm soát thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất vì
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+mục đích sơ cứu, cấp cứu trong cuộc hành trình, du lịch quốc tế, điều trị bệnh
+cho bản thân người nhập cảnh, xuất cảnh, quá cảnh
 
-chong ma tuy 2021
+1.  Việc  mang  theo  thuốc  gây  nghiện,  thuốc  hướng  thần,  thuốc  tiền  chất  dự
+phòng  cho  việc  sơ  cứu,  cấp  cứu  trên  tàu  thủy,  tàu  bay,  tàu  hỏa,  ô  tô  hoặc  các
+phương  tiện  vận  tải  khác  trong  cuộc  hành  trình,  du  lịch  quốc  tế  không  bị  coi  là
+mang hàng xuất khẩu, nhập khẩu, quá cảnh lãnh thổ Việt Nam.
 
-Dieu 1. Pham vi dieu chinh
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+13
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+Người chỉ huy, người điều khiển phương tiện vận tải có trách nhiệm khai báo
+với cơ quan Hải quan của Việt Nam, giải trình về số lượng thuốc đã sử dụng, áp
+dụng các biện pháp an toàn thích hợp để ngăn chặn việc sử dụng không đúng mục
+đích hoặc vận chuyển trái phép các thuốc đó và chịu sự kiểm soát của cơ quan có
+thẩm quyền của Việt Nam.
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+2. Việc mang theo thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất để điều
+trị bệnh cho bản thân người nhập cảnh, xuất cảnh hoặc quá cảnh lãnh thổ Việt Nam
+thực hiện theo quy định của Chính phủ và chịu sự kiểm soát của cơ quan có thẩm
+quyền của Việt Nam.
 
-Dieu 2. Giai thich tu ngu
+Điều 21. Xử lý chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần,
+thuốc  tiền  chất,  nguyên  liệu  làm  thuốc  là  dược  chất  gây  nghiện,  dược  chất
+hướng thần, tiền chất dùng làm thuốc, thuốc thú y có chứa chất ma túy, tiền
+chất thu giữ trong vụ việc vi phạm pháp luật
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+Chất  ma  túy,  tiền  chất,  thuốc  gây  nghiện,  thuốc  hướng  thần,  thuốc  tiền  chất,
+nguyên  liệu  làm  thuốc  là  dược  chất  gây  nghiện,  dược  chất  hướng  thần,  tiền  chất
+dùng làm thuốc, thuốc thú y có chứa chất ma túy, tiền chất bị thu giữ trong các vụ
+án hình sự, vụ việc vi phạm hành chính được xử lý theo quy định của pháp luật về
+tố tụng hình sự, pháp luật về xử lý vi phạm hành chính.
 
-phu ban hanh.
+Chương IV
+QUẢN LÝ NGƯỜI SỬ DỤNG TRÁI PHÉP CHẤT MA TÚY
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+Điều 22. Xét nghiệm chất ma túy trong cơ thể
 
-thuoc vao cac chat nay.
+1.  Xét  nghiệm  chất  ma  túy  trong  cơ  thể  được  thực  hiện  đối  với  người  thuộc
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+trường hợp sau đây:
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+a) Người bị phát hiện sử dụng trái phép chất ma túy;
 
-chong ma tuy 2021
+b) Người mà cơ quan, người có thẩm quyền có căn cứ cho rằng có hành vi sử
 
-Dieu 1. Pham vi dieu chinh
+dụng trái phép chất ma túy;
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+c) Người sử dụng trái phép chất ma túy đang trong thời hạn quản lý;
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+d) Người đang trong thời gian bị áp dụng biện pháp xử lý hành chính giáo dục
+tại  xã,  phường,  thị  trấn  do  có  hành  vi  sử  dụng  trái  phép  chất  ma  túy;  đang  cai
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+14
 
-Dieu 2. Giai thich tu ngu
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+nghiện ma túy; đang điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế;
+đang trong thời hạn quản lý sau cai nghiện ma túy.
 
-phu ban hanh.
+2. Người đứng đầu cơ sở cai nghiện ma túy, cơ sở điều trị nghiện các chất dạng
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+thuốc phiện bằng thuốc thay thế; người có thẩm quyền xử phạt vi phạm hành chính
+đối với hành vi sử dụng trái phép chất ma túy tiến hành xét nghiệm chất ma túy
+theo thẩm quyền hoặc đề nghị cơ quan, người có chuyên môn xét nghiệm chất ma
+túy trong cơ thể đối với các trường hợp quy định tại khoản 1 Điều này.
 
-thuoc vao cac chat nay.
+Trường hợp có kết quả xét nghiệm dương tính thì gửi ngay kết quả đến Chủ
+tịch Ủy ban nhân dân cấp xã nơi người có kết quả xét nghiệm dương tính cư trú,
+trừ trường hợp người đó đang cai nghiện ma túy bắt buộc.
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+3. Nhà nước bảo đảm kinh phí xét nghiệm chất ma túy trong cơ thể đối với các
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+trường hợp quy định tại khoản 1 Điều này.
 
-chong ma tuy 2021
+Điều 23. Quản lý người sử dụng trái phép chất ma túy
 
-Dieu 1. Pham vi dieu chinh
+1. Quản lý người sử dụng trái phép chất ma túy là biện pháp phòng ngừa nhằm
+giúp người sử dụng trái phép chất ma túy không tiếp tục sử dụng trái phép chất ma
+túy, phòng ngừa các hành vi vi phạm pháp luật của họ.
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+Quản lý người  sử  dụng trái  phép  chất  ma  túy  không  phải  là  biện  pháp  xử  lý
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+hành chính.
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+2. Thời hạn quản lý người sử dụng trái phép chất ma túy là 01 năm kể từ ngày
 
-Dieu 2. Giai thich tu ngu
+Chủ tịch Ủy ban nhân dân cấp xã ra quyết định quản lý.
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+3. Nội dung quản lý người sử dụng trái phép chất ma túy bao gồm:
 
-phu ban hanh.
+a) Tư vấn, động viên, giáo dục, giúp đỡ người sử dụng trái phép chất ma túy để
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+họ không tiếp tục sử dụng trái phép chất ma túy;
 
-thuoc vao cac chat nay.
+b) Xét nghiệm chất ma túy trong cơ thể;
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+c) Ngăn chặn người sử dụng trái phép chất ma túy có hành vi gây mất trật tự,
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+an toàn xã hội.
 
-chong ma tuy 2021
+4. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được kết quả xét nghiệm
+dương tính của người cư trú tại địa phương, Chủ tịch Ủy ban nhân dân cấp xã có
+trách nhiệm ra quyết định và tổ chức quản lý người sử dụng trái phép chất ma túy
+cư trú tại địa phương.
 
-Dieu 1. Pham vi dieu chinh
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+15
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+5.  Trong  thời  hạn  quản  lý,  Chủ  tịch  Ủy  ban  nhân  dân  cấp  xã  ra  quyết  định
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+dừng quản lý người sử dụng trái phép chất ma túy trong các trường hợp sau đây:
 
-Dieu 2. Giai thich tu ngu
+a) Người sử dụng trái phép chất ma túy được xác định là người nghiện ma túy;
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+b) Người sử dụng trái phép chất ma túy bị áp dụng biện pháp xử lý hành chính
 
-phu ban hanh.
+giáo dục tại xã, phường, thị trấn do có hành vi sử dụng trái phép chất ma túy;
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+c) Người sử dụng trái phép chất ma túy bị áp dụng biện pháp xử lý hành chính
 
-thuoc vao cac chat nay.
+đưa vào cơ sở giáo dục bắt buộc, đưa vào trường giáo dưỡng;
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+d) Người sử dụng trái phép chất ma túy phải thi hành án phạt tù;
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+đ) Người sử dụng trái phép chất ma túy trong danh sách quản lý chết, bị Tòa
 
-chong ma tuy 2021
+án tuyên bố là mất tích.
 
-Dieu 1. Pham vi dieu chinh
+6. Chính phủ quy định chi tiết Điều này.
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+Điều 24. Trách nhiệm của người sử dụng trái phép chất ma túy
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+1. Cung cấp đầy đủ, chính xác thông tin về hành vi sử dụng trái phép chất ma
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+túy của mình cho công an cấp xã nơi cư trú.
 
-Dieu 2. Giai thich tu ngu
+2. Chấp hành việc quản lý của Ủy ban nhân dân cấp xã.
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+Điều  25.  Trách  nhiệm  của  gia  đình,  cơ  quan,  tổ  chức,  cộng  đồng  trong
 
-phu ban hanh.
+quản lý người sử dụng trái phép chất ma túy
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+1. Gia đình người sử dụng trái phép chất ma túy có trách nhiệm sau đây:
 
-thuoc vao cac chat nay.
+a) Quản lý, giáo dục người sử dụng trái phép chất ma túy; ngăn chặn hành vi
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+sử dụng trái phép chất ma túy;
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+b) Cung cấp thông tin về hành vi sử dụng trái phép chất ma túy của người sử
 
-chong ma tuy 2021
+dụng trái phép chất ma túy cho công an cấp xã nơi người đó cư trú;
 
-Dieu 1. Pham vi dieu chinh
+c) Ngăn chặn người sử dụng trái phép chất ma túy có hành vi gây mất trật tự,
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+an toàn xã hội;
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+d) Phối hợp với cơ quan có thẩm quyền đưa người sử dụng trái phép chất ma
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+túy đi xét nghiệm chất ma túy trong cơ thể.
 
-Dieu 2. Giai thich tu ngu
+2. Cơ quan, tổ chức nơi người sử dụng trái phép chất ma túy  làm việc, cộng
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+đồng nơi người sử dụng trái phép chất ma túy sinh sống có trách nhiệm sau đây:
 
-phu ban hanh.
+a)  Động  viên,  giúp  đỡ,  giáo  dục  người  sử  dụng  trái  phép  chất  ma  túy;  ngăn
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+chặn hành vi sử dụng trái phép chất ma túy;
 
-thuoc vao cac chat nay.
+16
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+b) Phối hợp với gia đình, cơ quan có thẩm quyền đưa người sử dụng trái phép
 
-chong ma tuy 2021
+chất ma túy đi xét nghiệm chất ma túy trong cơ thể.
 
-Dieu 1. Pham vi dieu chinh
+Điều 26. Lập danh sách người sử dụng trái phép chất ma túy
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+1.  Công  an  cấp  xã  giúp  Ủy  ban  nhân  dân  cùng  cấp  lập  danh  sách  người  sử
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+dụng trái phép chất ma túy cư trú tại địa phương.
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+2. Khi người sử dụng trái phép chất ma túy thay đổi nơi cư trú thì công an cấp
+xã  nơi  chuyển  đi  có  trách  nhiệm  thông  báo  cho  công  an  cấp  xã  nơi  chuyển  đến
+trong thời hạn 05 ngày làm việc kể từ ngày người đó chuyển khỏi địa phương để
+đưa vào danh sách và tiếp tục quản lý.
 
-Dieu 2. Giai thich tu ngu
+3. Công an cấp xã giúp Ủy ban nhân dân cùng cấp đưa ra khỏi danh sách người
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+sử dụng trái phép chất ma túy trong các trường hợp sau đây:
 
-phu ban hanh.
+a)  Người  sử dụng  trái  phép  chất  ma  túy  không  có hành vi  sử dụng  trái  phép
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+chất ma túy trong thời gian quản lý quy định tại khoản 2 Điều 23 của Luật này;
 
-thuoc vao cac chat nay.
+b)  Người  sử dụng  trái  phép  chất  ma  túy  thuộc  trường  hợp dừng quản lý  quy
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+định tại khoản 5 Điều 23 của Luật này;
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+c) Người sử dụng trái phép chất ma túy chuyển đến cư trú ở địa phương khác.
 
-chong ma tuy 2021
+Chương V
+CAI NGHIỆN MA TÚY
 
-Dieu 1. Pham vi dieu chinh
+Điều 27. Xác định tình trạng nghiện ma túy
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+1.  Xác  định  tình  trạng  nghiện  ma  túy  được  thực  hiện  đối  với  người  thuộc
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+trường hợp sau đây:
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+a) Người sử dụng trái phép chất ma túy đang trong thời gian quản lý bị phát
 
-Dieu 2. Giai thich tu ngu
+hiện sử dụng trái phép chất ma túy;
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+b) Người sử dụng trái phép chất ma túy không có nơi cư trú ổn định;
 
-phu ban hanh.
+c) Người đang trong thời gian bị áp dụng biện pháp xử lý hành chính giáo dục
+tại xã, phường, thị trấn do có hành vi sử dụng trái phép chất ma túy hoặc trong thời
+hạn 01 năm kể từ ngày chấp hành xong biện pháp xử lý hành chính giáo dục tại xã,
+phường, thị trấn do có hành vi sử dụng trái phép chất ma túy mà bị phát hiện sử
+dụng trái phép chất ma túy;
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
 
-thuoc vao cac chat nay.
+17
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+d) Người đang trong thời gian quản lý sau cai nghiện ma túy bị phát hiện sử
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+dụng trái phép chất ma túy;
 
-chong ma tuy 2021
+đ) Người tự nguyện xác định tình trạng nghiện ma túy.
 
-Dieu 1. Pham vi dieu chinh
+2.  Công  an  cấp  xã  nơi  phát  hiện  người  thuộc  trường  hợp  quy  định  tại  các
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+điểm a, b, c và d khoản 1 Điều này lập hồ sơ đề nghị cơ sở y tế có thẩm quyền xác
+định tình trạng nghiện ma túy.
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+3. Trường hợp công an cấp huyện, công an cấp tỉnh trực tiếp phát hiện hoặc
+trong  quá  trình  điều  tra,  thụ  lý  các  vụ  việc  vi  phạm  pháp  luật  mà  phát  hiện
+trường hợp quy định tại các điểm a, b, c và d khoản 1 Điều này thì cơ quan công
+an đang thụ lý lập hồ sơ đề nghị cơ sở y tế có thẩm quyền xác định tình trạng
+nghiện ma túy.
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+4. Khi có kết quả xác định tình trạng nghiện ma túy, cơ sở y tế có trách nhiệm
 
-Dieu 2. Giai thich tu ngu
+gửi  ngay  kết  quả  đến  cơ  quan  đề  nghị,  người  được  xác định  tình  trạng  nghiện
+ma túy.
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+5.  Người  được  đề  nghị  xác  định  tình  trạng  nghiện  ma  túy  có  quyền  và  trách
 
-phu ban hanh.
+nhiệm sau đây:
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+a) Được bảo đảm danh dự, nhân phẩm; hỗ trợ đi lại, ăn ở, điều trị hội chứng
 
-thuoc vao cac chat nay.
+cai và các bệnh kèm theo trong thời gian xác định tình trạng nghiện ma túy;
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+b) Chấp hành nội quy, quy chế của cơ sở xác định tình trạng nghiện ma túy;
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+khai báo trung thực với nhân viên y tế về tiền sử sử dụng ma túy, các biểu hiện của
+việc sử dụng ma túy;
 
-chong ma tuy 2021
+c)  Người  từ  đủ  18  tuổi  trở  lên  hoặc  cha,  mẹ,  người  giám  hộ  hoặc  người  đại
 
-Dieu 1. Pham vi dieu chinh
+diện hợp pháp của người từ đủ 12 tuổi đến dưới 18 tuổi quy định tại các điểm a, b, c
+và đ khoản 1 Điều này khi nhận được kết quả xác định là nghiện ma túy có trách
+nhiệm  đăng  ký  cai nghiện  ma  túy  tự  nguyện  theo  quy định tại  Điều 28  của  Luật
+này  hoặc đăng ký  điều  trị nghiện  các  chất  dạng  thuốc  phiện bằng  thuốc thay  thế
+trong  trường hợp  nghiện  các  chất  dạng thuốc phiện với  Ủy  ban nhân dân  cấp xã
+nơi cư trú.
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+6. Chính phủ quy định cơ sở y tế đủ điều kiện xác định tình trạng nghiện ma
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+túy; hồ sơ, trình tự, thủ tục xác định tình trạng nghiện ma túy.
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+18
 
-Dieu 2. Giai thich tu ngu
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+7. Bộ trưởng Bộ Y tế quy định tiêu chuẩn chẩn đoán và quy trình chuyên môn
 
-phu ban hanh.
+để xác định tình trạng nghiện ma túy.
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+8.  Nhà  nước  bảo  đảm  kinh  phí  xác  định  tình  trạng  nghiện  ma  túy  đối  với
 
-thuoc vao cac chat nay.
+trường hợp quy định tại các điểm a, b, c và d khoản 1 Điều này.
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+Điều 28. Các biện pháp cai nghiện ma túy
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+1. Biện pháp cai nghiện ma túy bao gồm:
 
-chong ma tuy 2021
+a) Cai nghiện ma túy tự nguyện;
 
-Dieu 1. Pham vi dieu chinh
+b) Cai nghiện ma túy bắt buộc.
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+2.  Biện  pháp  cai  nghiện  ma  túy  tự  nguyện  được  thực  hiện  tại  gia  đình,  cộng
+đồng hoặc tại cơ sở cai nghiện ma túy; biện pháp cai nghiện ma túy bắt buộc được
+thực hiện tại cơ sở cai nghiện ma túy công lập.
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+Điều 29. Quy trình cai nghiện ma túy
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+1. Quy trình cai nghiện ma túy bao gồm các giai đoạn sau đây:
 
-Dieu 2. Giai thich tu ngu
+a) Tiếp nhận, phân loại;
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+b) Điều trị cắt cơn, giải độc, điều trị các rối loạn tâm thần, điều trị các bệnh
 
-phu ban hanh.
+lý khác;
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+c) Giáo dục, tư vấn, phục hồi hành vi, nhân cách;
 
-thuoc vao cac chat nay.
+d) Lao động trị liệu, học nghề;
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+đ) Chuẩn bị tái hòa nhập cộng đồng.
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+2.  Việc  cai  nghiện  ma  túy  bắt  buộc  phải  bảo  đảm  đầy  đủ  các  giai  đoạn  quy
+định tại khoản 1 Điều này; việc cai nghiện ma túy tự nguyện phải bảo đảm hoàn
+thành đủ 03 giai đoạn quy định tại các điểm a, b và c khoản 1 Điều này.
 
-chong ma tuy 2021
+3. Chính phủ quy định chi tiết Điều này.
 
-Dieu 1. Pham vi dieu chinh
+Điều 30. Cai nghiện ma túy tự nguyện tại gia đình, cộng đồng
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+1. Cai nghiện ma túy tự nguyện tại gia đình, cộng đồng là việc người nghiện
+ma túy thực hiện cai nghiện tự nguyện tại gia đình, cộng đồng với sự hỗ trợ chuyên
+môn  của  tổ  chức,  cá  nhân  cung  cấp  dịch  vụ  cai  nghiện  ma  túy,  sự  phối  hợp,  trợ
+giúp của gia đình, cộng đồng và chịu sự quản lý của Ủy ban nhân dân cấp xã.
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+2. Thời hạn cai nghiện ma túy tự nguyện tại gia đình, cộng đồng là từ đủ 06
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+tháng đến 12 tháng.
 
-Dieu 2. Giai thich tu ngu
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+19
 
-phu ban hanh.
+3. Người cai nghiện ma túy tự nguyện tại gia đình, cộng đồng khi hoàn thành ít
+nhất 03 giai đoạn quy định tại các điểm a, b và c khoản 1 Điều 29 của Luật này
+được hỗ trợ kinh phí.
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+4. Người cai nghiện ma túy tự nguyện tại gia đình, cộng đồng có trách nhiệm
 
-thuoc vao cac chat nay.
+sau đây:
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+a)  Thực  hiện  đúng,  đầy  đủ  các  quy  định  về  cai  nghiện  ma  túy  tự  nguyện  và
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+tuân thủ hướng dẫn của cơ quan chuyên môn;
 
-chong ma tuy 2021
+b) Nộp chi phí liên quan đến cai nghiện ma túy theo quy định.
 
-Dieu 1. Pham vi dieu chinh
+5. Chủ tịch Ủy ban nhân dân cấp xã có trách nhiệm sau đây:
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+a) Tiếp nhận đăng ký cai nghiện ma túy tự nguyện tại gia đình, cộng đồng;
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+b) Hướng dẫn, quản lý người cai nghiện ma túy tự nguyện tại gia đình, cộng đồng;
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+c)  Cấp  giấy  xác  nhận  hoàn  thành  cai  nghiện  ma  túy  tự  nguyện  tại  gia  đình,
 
-Dieu 2. Giai thich tu ngu
+cộng đồng.
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+6. Chủ tịch Ủy ban nhân dân cấp huyện có trách nhiệm sau đây:
 
-phu ban hanh.
+a) Giao nhiệm vụ cho các đơn vị sự nghiệp công lập thuộc thẩm quyền trên địa
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+bàn cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng;
 
-thuoc vao cac chat nay.
+b) Tiếp nhận đăng ký và công bố danh sách tổ chức, cá nhân đủ điều kiện cung
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng;
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+c) Thông báo cho Ủy ban nhân dân cấp xã danh sách tổ chức, cá nhân cung cấp
 
-chong ma tuy 2021
+dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng;
 
-Dieu 1. Pham vi dieu chinh
+d)  Bố  trí  kinh  phí  hỗ  trợ  công  tác  cai  nghiện  ma  túy  tự  nguyện  tại  gia  đình,
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+cộng đồng;
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+đ) Chỉ đạo, hướng dẫn, kiểm tra công tác cai nghiện ma túy tự nguyện tại gia
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+đình, cộng đồng.
 
-Dieu 2. Giai thich tu ngu
+7. Cơ sở cai nghiện ma túy, tổ chức, cá nhân đủ điều kiện cung cấp một hoặc
+nhiều hoạt động cai nghiện theo quy trình cai nghiện ma túy quy định tại khoản 1
+Điều 29 của Luật này được cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia
+đình, cộng đồng và có trách nhiệm sau đây:
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+a)  Tiếp  nhận  và  tổ  chức  thực  hiện  cung  cấp  dịch  vụ  cai  nghiện  ma  túy  tự
 
-phu ban hanh.
+nguyện tại gia đình, cộng đồng;
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+20
 
-thuoc vao cac chat nay.
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+b) Thực hiện đúng quy trình chuyên môn nghiệp vụ theo quy định của cơ quan
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+có thẩm quyền;
 
-chong ma tuy 2021
+c)  Trong  thời  hạn  05  ngày  làm  việc  kể  từ  ngày  người  cai  nghiện  ma  túy  sử
+dụng dịch vụ hoặc tự ý chấm dứt việc sử dụng dịch vụ hoặc hoàn thành dịch vụ
+phải thông báo cho Ủy ban nhân dân cấp xã nơi người đó đăng ký cai nghiện ma
+túy tự nguyện tại gia đình, cộng đồng.
 
-Dieu 1. Pham vi dieu chinh
+8. Tổ chức, cá nhân có đủ điều kiện thì được đăng ký cung cấp dịch vụ cai
+nghiện ma túy tự nguyện tại gia đình, cộng đồng với Chủ tịch Ủy ban nhân dân
+cấp huyện.
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+9. Chính phủ quy định chi tiết Điều này.
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+Điều 31. Cai nghiện ma túy tự nguyện tại cơ sở cai nghiện ma túy
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+1. Thời hạn cai nghiện ma túy tự nguyện tại cơ sở cai nghiện ma túy là từ
 
-Dieu 2. Giai thich tu ngu
+đủ 06 tháng đến 12 tháng.
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+2.  Người  cai  nghiện  ma  túy  tự  nguyện  tại  cơ  sở  cai  nghiện  ma  túy  khi  hoàn
+thành ít nhất 03 giai đoạn quy định tại các điểm a, b và c khoản 1 Điều 29 của Luật
+này được hỗ trợ kinh phí.
 
-phu ban hanh.
+3.  Người  cai  nghiện  ma  túy  tự  nguyện  tại  cơ  sở  cai  nghiện  ma  túy  có  trách
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+nhiệm sau đây:
 
-thuoc vao cac chat nay.
+a)  Thực  hiện  đúng,  đầy  đủ  các  quy  định  về  cai  nghiện  ma  túy  tự  nguyện  và
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+tuân thủ hướng dẫn của cơ quan chuyên môn;
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+b) Nộp chi phí liên quan đến cai nghiện ma túy theo quy định.
 
-chong ma tuy 2021
+Trường  hợp  người  cai  nghiện  ma  túy  tự  nguyện  tại  cơ  sở  cai  nghiện  ma  túy
 
-Dieu 1. Pham vi dieu chinh
+công lập mà có hoàn cảnh khó khăn được xét giảm hoặc miễn chi phí phải nộp.
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+4. Cơ sở cai nghiện ma túy có trách nhiệm cấp giấy xác nhận hoàn thành cai
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+nghiện ma túy tự nguyện cho người cai nghiện ma túy.
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+5. Chính phủ quy định chi tiết Điều này.
 
-Dieu 2. Giai thich tu ngu
+Điều 32. Đối tượng bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+cai nghiện bắt buộc
 
-phu ban hanh.
+Người  nghiện  ma  túy  từ  đủ  18  tuổi  trở  lên  bị  áp  dụng  biện  pháp  xử  lý  hành
+chính đưa  vào  cơ  sở  cai  nghiện  bắt  buộc  theo  quy  định  của  Luật  Xử  lý  vi  phạm
+hành chính khi thuộc một trong các trường hợp sau đây:
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
 
-thuoc vao cac chat nay.
+21
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+1. Không đăng ký, không thực hiện hoặc tự ý chấm dứt cai nghiện ma túy
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+tự nguyện;
 
-chong ma tuy 2021
+2. Trong thời gian cai nghiện ma túy tự nguyện bị phát hiện sử dụng trái phép
 
-Dieu 1. Pham vi dieu chinh
+chất ma túy;
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+3. Người nghiện ma túy các chất dạng thuốc phiện không đăng ký, không thực
+hiện hoặc tự ý chấm dứt điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay
+thế hoặc bị chấm dứt điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế
+do vi phạm quy định về điều trị nghiện;
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+4. Trong thời gian quản lý sau cai nghiện ma túy mà tái nghiện.
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+Điều 33. Cai nghiện ma túy cho người từ đủ 12 tuổi đến dưới 18 tuổi
 
-Dieu 2. Giai thich tu ngu
+1. Người nghiện ma  túy từ đủ 12 tuổi đến dưới 18 tuổi bị đưa vào cơ sở cai
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+nghiện bắt buộc khi thuộc một trong các trường hợp sau đây:
 
-phu ban hanh.
+a) Không đăng ký, không thực hiện hoặc tự ý chấm dứt cai nghiện ma túy
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+tự nguyện;
 
-thuoc vao cac chat nay.
+b) Trong thời gian cai nghiện ma túy tự nguyện bị phát hiện sử dụng trái phép
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+chất ma túy;
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+c) Người nghiện ma túy các chất dạng thuốc phiện không đăng ký, không thực
+hiện hoặc tự ý chấm dứt điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay
+thế hoặc bị chấm dứt điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế
+do vi phạm quy định về điều trị nghiện.
 
-chong ma tuy 2021
+2. Người nghiện ma  túy từ đủ 12 tuổi đến dưới 18 tuổi bị đưa vào cơ sở cai
 
-Dieu 1. Pham vi dieu chinh
+nghiện bắt buộc có trách nhiệm sau đây:
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+a) Tuân thủ các quy định về cai nghiện ma túy bắt buộc, nội quy, quy chế và
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+chịu sự quản lý, giáo dục, điều trị của cơ sở cai nghiện bắt buộc;
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+b) Tham gia các hoạt động điều trị, chữa bệnh, giáo dục, tư vấn, học văn hóa,
 
-Dieu 2. Giai thich tu ngu
+học nghề, lao động trị liệu và các hoạt động phục hồi hành vi, nhân cách.
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+3. Thời hạn cai nghiện ma túy bắt buộc đối với người nghiện ma túy từ đủ 12 tuổi
 
-phu ban hanh.
+đến dưới 18 tuổi là từ đủ 06 tháng đến 12 tháng.
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+4. Việc đưa người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi vào cơ sở cai
+nghiện bắt buộc do Tòa án nhân dân cấp huyện quyết định và không phải là biện
+pháp xử lý hành chính.
 
-thuoc vao cac chat nay.
+22
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+5. Ủy ban Thường vụ Quốc hội quy định trình tự, thủ tục Tòa án nhân dân xem
+xét, quyết định việc đưa người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi vào cơ
+sở cai nghiện bắt buộc.
 
-chong ma tuy 2021
+Điều  34.  Lập  hồ  sơ  đề  nghị  đưa  vào  cơ  sở  cai  nghiện  bắt  buộc  đối  với
 
-Dieu 1. Pham vi dieu chinh
+người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+1.  Việc  lập  hồ  sơ  đề  nghị  đưa  vào  cơ  sở  cai  nghiện  bắt  buộc  đối  với  người
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi được thực hiện như sau:
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+a)  Chủ  tịch  Ủy  ban  nhân dân  cấp  xã nơi  người  đó  cư  trú hoặc  có hành vi vi
+phạm trong trường hợp không xác định được nơi cư trú lập hồ sơ đề nghị đưa vào
+cơ sở cai nghiện bắt buộc;
 
-Dieu 2. Giai thich tu ngu
+b) Trường hợp người nghiện ma túy do công an cấp huyện hoặc công an cấp
+tỉnh phát hiện hoặc trong quá trình điều tra, thụ lý các vụ việc vi phạm pháp luật
+mà đối tượng là người từ đủ 12 tuổi đến dưới 18 tuổi thuộc diện đưa vào cơ sở
+cai nghiện bắt buộc thì cơ quan công an đang thụ lý vụ việc tiến hành xác minh,
+thu thập tài liệu và lập hồ sơ đề nghị đưa vào cơ sở cai nghiện bắt buộc đối với
+người đó;
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+c) Hồ sơ đề nghị bao gồm biên bản vi phạm, bản tóm tắt lý lịch, tài liệu chứng
+minh  tình  trạng  nghiện  ma  túy  hiện  tại  của  người  đó,  bản  tường  trình  của  người
+nghiện ma túy hoặc của người đại diện hợp pháp của họ, ý kiến của cha, mẹ, người
+giám hộ hoặc người đại diện hợp pháp;
 
-phu ban hanh.
+d) Công an cấp xã có trách nhiệm giúp Chủ tịch Ủy ban nhân dân cùng cấp thu
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+thập các tài liệu và lập hồ sơ đề nghị quy định tại điểm a khoản 1 Điều này.
 
-thuoc vao cac chat nay.
+2. Cơ quan, người lập hồ sơ đề nghị quy định tại khoản 1 Điều này phải chịu
+trách nhiệm về tính pháp lý của hồ sơ đề nghị. Sau khi hoàn thành việc lập hồ sơ
+đề nghị,  cơ quan, người  lập hồ  sơ  phải thông báo  bằng văn  bản  cho người bị  đề
+nghị áp dụng biện pháp đưa vào cơ sở cai nghiện bắt buộc, cha, mẹ, người giám hộ
+hoặc người đại diện hợp pháp của họ về việc lập hồ sơ. Những người này có quyền
+đọc hồ sơ và ghi ý kiến về việc lập hồ sơ trong thời hạn 03 ngày làm việc kể từ
+ngày nhận được thông báo.
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+3. Trong thời hạn 01 ngày làm việc kể từ ngày hết thời hạn đọc hồ sơ, cơ quan,
+người đã lập hồ sơ gửi hồ sơ cho Trưởng phòng Phòng Lao động - Thương binh và
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
 
-chong ma tuy 2021
+23
 
-Dieu 1. Pham vi dieu chinh
+Xã hội cấp huyện nơi người bị đề nghị cư trú hoặc có hành vi vi phạm trong trường
+hợp không xác định được nơi cư trú. Trong thời hạn 02 ngày làm việc kể từ ngày
+nhận  được  hồ  sơ,  Trưởng  phòng  Phòng  Lao  động  -  Thương  binh  và  Xã  hội  cấp
+huyện quyết định chuyển hồ sơ đề nghị Tòa án nhân dân cấp huyện quyết định đưa
+vào cơ sở cai nghiện bắt buộc. Trường hợp hồ sơ chưa đầy đủ thì Trưởng phòng
+Phòng Lao động - Thương binh và Xã hội cấp huyện chuyển lại cơ quan, người đã
+lập hồ sơ để bổ sung hồ sơ, thời hạn bổ sung là 02 ngày làm việc kể từ ngày nhận
+lại hồ sơ. Trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ bổ sung,
+Trưởng  phòng  Phòng  Lao  động  -  Thương  binh  và  Xã  hội  cấp  huyện  quyết  định
+việc chuyển hồ sơ đề nghị Tòa án nhân dân cấp huyện quyết định đưa vào cơ sở
+cai nghiện bắt buộc.
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+4. Hồ sơ đề nghị Tòa án nhân dân cấp huyện xem xét, quyết định đưa vào cơ
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+sở cai nghiện bắt buộc bao gồm:
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+a) Hồ sơ đề nghị đưa vào cơ sở cai nghiện bắt buộc quy định tại điểm c khoản 1
 
-Dieu 2. Giai thich tu ngu
+Điều này;
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+b) Văn bản của Trưởng phòng Phòng Lao động - Thương binh và Xã hội cấp
 
-phu ban hanh.
+huyện về việc đề nghị xem xét đưa vào cơ sở cai nghiện bắt buộc.
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+Trong nội dung văn bản của Trưởng phòng Phòng Lao động - Thương binh và
 
-thuoc vao cac chat nay.
+Xã hội phải nêu ý kiến về bảo vệ quyền trẻ em.
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+5. Hồ sơ đề nghị đưa vào cơ sở cai nghiện bắt buộc đối với người nghiện ma
+túy từ đủ 12 tuổi đến dưới 18 tuổi phải được đánh bút lục và được lưu trữ theo quy
+định của pháp luật về lưu trữ.
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+6. Chính phủ quy định chi tiết việc lập hồ sơ đề nghị đưa người nghiện ma túy
+từ đủ 12 tuổi đến dưới 18 tuổi vào cơ sở cai nghiện bắt buộc; chế độ cai nghiện ma
+túy áp dụng đối với người từ đủ 12 tuổi đến dưới 18 tuổi.
 
-chong ma tuy 2021
+Điều 35. Cơ sở cai nghiện ma túy công lập
 
-Dieu 1. Pham vi dieu chinh
+1.  Cơ  sở  cai  nghiện  ma  túy  công  lập  do  Chủ  tịch  Ủy  ban  nhân  dân  cấp  tỉnh
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+quyết định thành lập.
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+2. Cơ sở cai nghiện ma túy công lập phải bố trí các khu sau đây:
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+a) Khu lưu trú tạm thời đối với người được đề nghị xác định tình trạng nghiện
+ma túy và người trong thời gian lập hồ sơ đề nghị áp dụng biện pháp xử lý hành
+chính đưa vào cơ sở cai nghiện bắt buộc;
 
-Dieu 2. Giai thich tu ngu
+24
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
 
-phu ban hanh.
+b) Khu cai nghiện ma túy bắt buộc;
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+c) Khu cai nghiện ma túy tự nguyện;
 
-thuoc vao cac chat nay.
+d) Khu cai nghiện cho người từ đủ 12 tuổi đến dưới 18 tuổi;
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+đ)  Khu  cai  nghiện  cho người  mắc  bệnh  truyền  nhiễm  nhóm  A,  nhóm  B  theo
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+quy định của Luật Phòng, chống bệnh truyền nhiễm;
 
-chong ma tuy 2021
+e) Khu cai nghiện cho người có hành vi gây rối trật tự, vi phạm nội quy, quy
 
-Dieu 1. Pham vi dieu chinh
+chế của cơ sở cai nghiện ma túy.
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+ 3. Trong các khu quy định tại khoản 2 Điều này phải bố trí khu riêng cho nam
+giới và khu riêng cho nữ giới. Người có sự khác nhau giữa thực thể và giới tính ghi
+trong hồ sơ, lý lịch được quản lý tại phòng riêng trong khu vực theo giới tính biểu
+hiện trên thực thể học viên.
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+4. Hoạt động của cơ sở cai nghiện ma túy công lập bao gồm:
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+a) Tiếp nhận và tổ chức thực hiện cai nghiện ma túy cho người nghiện ma túy
+bị đưa vào cơ sở cai nghiện bắt buộc và người nghiện ma túy tự nguyện cai nghiện;
 
-Dieu 2. Giai thich tu ngu
+b) Thực hiện việc xác định tình trạng nghiện ma túy;
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+c) Tiếp nhận, quản lý, giáo dục, tư vấn, điều trị hội chứng cai, điều trị rối loạn
+tâm thần và các bệnh khác đối với người đang trong thời gian lập hồ sơ đề nghị
+đưa vào cơ sở cai nghiện bắt buộc.
 
-phu ban hanh.
+5. Cơ sở cai nghiện ma túy công lập có quyền sau đây:
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+a) Tiếp nhận người nghiện ma túy vào cai nghiện ma túy tự nguyện phù hợp
 
-thuoc vao cac chat nay.
+với khả năng tiếp nhận của cơ sở cai nghiện;
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+b) Người đứng đầu cơ sở cai nghiện ma túy công lập được quyết định áp dụng
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+các biện pháp phù hợp để quản lý, giáo dục, chữa trị cho người cai nghiện ma túy.
 
-chong ma tuy 2021
+6. Cơ sở cai nghiện ma túy công lập có trách nhiệm sau đây:
 
-Dieu 1. Pham vi dieu chinh
+a) Tuân thủ các quy định về xác định tình trạng nghiện ma túy, quy trình cai
+nghiện ma túy, quản lý người đang trong thời gian lập hồ sơ đề nghị đưa vào cơ sở
+cai nghiện bắt buộc;
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+b) Tôn trọng tính mạng, sức khỏe, danh dự, nhân phẩm, tài sản của người cai
+nghiện  ma  túy,  người  được  đề  nghị  xác  định  tình  trạng  nghiện  ma  túy  và  người
+đang trong thời gian lập hồ sơ đề nghị đưa vào cơ sở cai nghiện bắt buộc;
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+25
 
-Dieu 2. Giai thich tu ngu
+c) Bảo đảm quyền của người nghiện ma túy trong thời gian cai nghiện và cấp
+giấy xác nhận hoàn thành cai nghiện ma túy bắt buộc cho người từ đủ 12 tuổi đến
+dưới 18 tuổi;
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+d) Người đứng đầu cơ sở cai nghiện ma túy công lập có trách nhiệm bảo đảm
 
-phu ban hanh.
+điều kiện hoạt động của cơ sở cai nghiện ma túy; niêm yết công khai chi phí cai
+nghiện ma túy tại cơ sở theo quy định của pháp luật;
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+đ) Phòng, chống thẩm lậu ma túy vào cơ sở;
 
-thuoc vao cac chat nay.
+e)  Trong  thời  hạn  05  ngày  làm  việc  kể  từ  ngày  người  cai  nghiện  ma  túy  tự
+nguyện được tiếp nhận hoặc tự ý chấm dứt việc sử dụng dịch vụ hoặc hoàn thành
+quy trình cai nghiện ma túy phải thông báo cho Ủy ban nhân dân cấp xã nơi người
+đó đăng ký cai nghiện ma túy tự nguyện.
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+7. Chính phủ quy định điều kiện về cơ sở vật chất, trang thiết bị, nhân sự của
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+cơ sở cai  nghiện  ma  túy  công lập và  chế độ  quản lý tại  cơ sở cai nghiện  ma  túy
+công lập.
 
-chong ma tuy 2021
+Điều 36. Cơ sở cai nghiện ma túy tự nguyện
 
-Dieu 1. Pham vi dieu chinh
+1. Cơ sở cai nghiện ma túy tự nguyện do cá nhân, tổ chức kinh doanh dịch vụ
+cai nghiện ma túy thành lập. Chính phủ quy định điều kiện và thẩm quyền, trình tự,
+thủ tục cấp, thu hồi giấy phép hoạt động của cơ sở cai nghiện ma túy tự nguyện.
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+2. Cơ sở cai nghiện ma túy tự nguyện có quyền sau đây:
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+a) Tiếp nhận người nghiện ma túy vào cai nghiện ma túy tự nguyện phù hợp
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+với khả năng tiếp nhận của cơ sở cai nghiện;
 
-Dieu 2. Giai thich tu ngu
+b) Được thu các khoản chi phí liên quan đến cai nghiện ma túy;
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+c) Được hưởng chế độ ưu đãi theo quy định của pháp luật.
 
-phu ban hanh.
+3. Cơ sở cai nghiện ma túy tự nguyện có trách nhiệm sau đây:
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+a) Tuân thủ quy trình cai nghiện ma túy;
 
-thuoc vao cac chat nay.
+b) Tôn trọng tính mạng, sức khỏe, danh dự, nhân phẩm, tài sản của người cai
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+nghiện ma túy;
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+c)  Bảo  đảm  quyền  của  người  nghiện  ma  túy  từ  đủ  12  tuổi  đến  dưới  18  tuổi
 
-chong ma tuy 2021
+trong thời gian cai nghiện ma túy;
 
-Dieu 1. Pham vi dieu chinh
+26
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+d) Người đứng đầu cơ sở cai nghiện ma túy có trách nhiệm bảo đảm điều kiện
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+hoạt động của cơ sở cai nghiện ma túy; niêm yết công khai chi phí liên quan đến
 
-Dieu 2. Giai thich tu ngu
+cai nghiện ma túy tại cơ sở theo quy định của pháp luật;
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+đ) Phòng, chống thẩm lậu ma túy vào cơ sở;
 
-phu ban hanh.
+e) Bố trí các khu hoặc phòng riêng khi tiếp nhận các đối tượng là người từ
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+đủ 12 tuổi đến dưới 18 tuổi, người mắc bệnh truyền nhiễm nhóm A, nhóm B theo
 
-thuoc vao cac chat nay.
+quy  định  của  Luật  Phòng,  chống  bệnh  truyền  nhiễm,  nữ  giới;  người  có  sự  khác
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+nhau  giữa  thực  thể  và  giới  tính  ghi  trong  hồ  sơ,  lý  lịch  được  quản  lý  tại  phòng
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+riêng trong khu vực theo giới tính biểu hiện trên thực thể học viên;
 
-chong ma tuy 2021
+g) Trong thời hạn 05 ngày làm việc kể từ ngày người cai nghiện ma túy được
 
-Dieu 1. Pham vi dieu chinh
+tiếp nhận hoặc tự ý chấm dứt việc sử dụng dịch vụ hoặc hoàn thành quy trình cai
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+nghiện ma túy phải thông báo cho Ủy ban nhân dân cấp xã nơi người đó đăng ký
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+cai nghiện ma túy tự nguyện.
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+Điều  37.  Áp  dụng  biện  pháp  cai  nghiện  ma  túy  cho  người  Việt  Nam  bị
 
-Dieu 2. Giai thich tu ngu
+nước ngoài trục xuất về nước do có hành vi sử dụng trái phép chất ma túy,
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+nghiện ma túy; người nước ngoài nghiện ma túy sinh sống tại Việt Nam
 
-phu ban hanh.
+1. Người Việt Nam bị nước ngoài trục xuất về Việt Nam do có hành vi sử dụng
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+trái phép chất ma túy, nghiện ma túy khi về nước phải tiến hành xác định tình trạng
 
-thuoc vao cac chat nay.
+nghiện ma túy. Trường hợp được xác định là nghiện ma túy thì người đó phải thực
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+hiện các biện pháp cai nghiện ma túy theo quy định của Luật này.
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+2.  Người  nước  ngoài  nghiện  ma  túy  sinh  sống  tại  Việt  Nam  có  trách  nhiệm
 
-chong ma tuy 2021
+đăng ký thực hiện cai nghiện ma túy tự nguyện tại cơ sở cai nghiện ma túy theo
 
-Dieu 1. Pham vi dieu chinh
+quy định của Luật này và phải chi trả toàn bộ các khoản chi phí liên quan đến cai
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+nghiện. Trường hợp không thực hiện cai nghiện ma túy tự nguyện thì người đó bị
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+xử lý theo quy định của pháp luật.
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+Điều 38. Cai nghiện ma túy cho người bị tạm giam, phạm nhân, trại viên
 
-Dieu 2. Giai thich tu ngu
+cơ sở giáo dục bắt buộc, học sinh trường giáo dưỡng
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+1. Nhà nước áp dụng biện pháp cai nghiện thích hợp đối với người nghiện ma
 
-phu ban hanh.
+túy là người bị tạm giam, phạm nhân, trại viên cơ sở giáo dục bắt buộc, học sinh
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+trường giáo dưỡng.
 
-thuoc vao cac chat nay.
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+27
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+2. Giám thị trại giam, giám thị trại tạm giam, trưởng nhà tạm giữ, giám đốc cơ
 
-chong ma tuy 2021
+sở giáo dục bắt buộc, hiệu trưởng trường giáo dưỡng phối hợp chặt chẽ với cơ sở y
 
-Dieu 1. Pham vi dieu chinh
+tế tại địa phương để thực hiện quy định tại khoản 1 Điều này.
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+Điều 39. Miễn chấp hành thời gian còn lại trong quyết định đưa vào cơ sở
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+cai  nghiện  bắt  buộc  đối  với  người  từ  đủ  14  tuổi  đến  dưới  18  tuổi  đang  cai
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+nghiện ma túy bắt buộc
 
-Dieu 2. Giai thich tu ngu
+Người từ đủ 14 tuổi đến dưới 18 tuổi đang cai nghiện ma túy bắt buộc mà bị
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+phát hiện thực hiện hành vi phạm tội trước hoặc trong thời gian chấp hành quyết
 
-phu ban hanh.
+định cai nghiện ma túy bắt buộc và bị Tòa án xử phạt tù nhưng không được hưởng
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+án treo thì được miễn chấp hành thời gian còn lại trong quyết định đưa vào cơ sở
 
-thuoc vao cac chat nay.
+cai nghiện bắt buộc.
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+Điều 40. Quản lý sau cai nghiện ma túy tại nơi cư trú
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+1.  Người  đã  hoàn  thành  cai  nghiện  ma  túy  tự  nguyện,  người  đã  hoàn  thành
 
-chong ma tuy 2021
+điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế, người từ đủ 12 tuổi
 
-Dieu 1. Pham vi dieu chinh
+đến dưới 18 tuổi đã chấp hành xong quyết định đưa vào cơ sở cai nghiện bắt buộc
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+chịu sự quản lý sau cai nghiện ma túy trong thời hạn 01 năm kể từ ngày hoàn thành
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+việc cai nghiện hoặc chấp hành xong quyết định.
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+2. Người đã chấp hành xong quyết định áp dụng biện pháp xử lý hành chính
 
-Dieu 2. Giai thich tu ngu
+đưa vào cơ sở cai nghiện bắt buộc chịu sự quản lý sau cai nghiện ma túy trong thời
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+hạn 02 năm kể từ ngày chấp hành xong quyết định.
 
-phu ban hanh.
+3. Nội dung quản lý sau cai nghiện ma túy bao gồm:
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+a) Lập danh sách người bị quản lý sau cai nghiện ma túy;
 
-thuoc vao cac chat nay.
+b) Tư vấn, giúp đỡ, phòng, chống tái nghiện ma túy;
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+c) Theo dõi, phát hiện, ngăn chặn hành vi sử dụng trái phép chất ma túy.
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+4. Hỗ trợ xã hội trong thời gian quản lý sau cai nghiện ma túy bao gồm:
 
-chong ma tuy 2021
+a) Hỗ trợ học văn hóa đối với người từ đủ 12 tuổi đến dưới 18 tuổi;
 
-Dieu 1. Pham vi dieu chinh
+b) Hỗ trợ học nghề, vay vốn, tìm việc làm và tham gia các hoạt động xã hội để
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+hòa nhập cộng đồng.
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+28
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
 
-Dieu 2. Giai thich tu ngu
+ 5. Chủ tịch Ủy ban nhân dân cấp xã ra quyết định và tổ chức quản lý, hỗ trợ
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+xã hội sau cai nghiện ma túy.
 
-phu ban hanh.
+6. Chính phủ quy định hồ sơ, trình tự, thủ tục, chế độ quản lý và chính sách hỗ
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+trợ cho người bị quản lý sau cai nghiện ma túy.
 
-thuoc vao cac chat nay.
+Điều 41. Biện pháp can thiệp giảm tác hại đối với người sử dụng trái phép
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+chất ma túy và người nghiện ma túy
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+1. Biện pháp can thiệp giảm tác hại đối với người sử dụng trái phép chất ma
+túy và người nghiện ma túy là biện pháp làm giảm tác hại liên quan đến hành vi sử
+dụng trái phép chất ma túy gây ra cho bản thân, gia đình và cộng đồng.
 
-chong ma tuy 2021
+2. Biện pháp can thiệp giảm tác hại đối với người sử dụng trái phép chất ma
 
-Dieu 1. Pham vi dieu chinh
+túy và người nghiện ma túy bao gồm:
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+a) Điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế;
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+b) Các biện pháp khác theo quy định của Chính phủ.
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+Điều 42. Trách nhiệm của gia đình người nghiện ma túy, cộng đồng
 
-Dieu 2. Giai thich tu ngu
+1. Gia đình người nghiện ma túy có trách nhiệm sau đây:
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+a)  Hỗ  trợ  người  nghiện  ma  túy  trong  quá  trình  cai  nghiện  ma  túy,  sau  cai
 
-phu ban hanh.
+nghiện ma túy và hòa nhập cộng đồng;
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+b) Phối hợp với cơ quan, người có thẩm  quyền trong việc lập hồ sơ áp dụng
+biện pháp cai nghiện  ma túy bắt buộc; phối hợp với cơ quan, tổ chức, đơn vị có
+liên quan hỗ trợ người nghiện ma túy trong quá trình cai nghiện ma túy, quản lý
+sau cai nghiện ma túy và hòa nhập cộng đồng.
 
-thuoc vao cac chat nay.
+2. Cộng đồng nơi người nghiện ma túy cư trú có trách nhiệm sau đây:
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+a) Động viên, giúp đỡ người nghiện ma túy;
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+b) Phối hợp với cơ quan, tổ chức, đơn vị có liên quan hỗ trợ người nghiện ma
+túy trong quá trình cai nghiện ma túy, quản lý sau cai nghiện ma túy và hòa nhập
+cộng đồng.
 
-chong ma tuy 2021
+Điều  43.  Lập  danh  sách  người  nghiện  ma  túy,  người  bị  quản  lý  sau  cai
 
-Dieu 1. Pham vi dieu chinh
+nghiện ma túy
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+1. Công an cấp xã giúp Ủy ban nhân dân cùng cấp lập danh sách người nghiện
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+ma túy và người bị quản lý sau cai nghiện ma túy cư trú tại địa phương.
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
 
-Dieu 2. Giai thich tu ngu
+29
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+2. Khi người nghiện ma túy, người bị quản lý sau cai nghiện ma túy thay đổi
+nơi cư trú thì công an cấp xã nơi chuyển đi có trách nhiệm thông báo cho công an
+cấp  xã  nơi  chuyển  đến  trong  thời  hạn  05  ngày  làm  việc  kể  từ  ngày  người  đó
+chuyển khỏi địa phương để đưa vào danh sách và phối hợp quản lý.
 
-phu ban hanh.
+3.  Công  an  cấp  xã  giúp  Ủy  ban  nhân  dân  cùng  cấp  đưa  ra  khỏi  danh  sách
+người nghiện ma túy, người bị quản lý sau cai nghiện ma túy đối với các trường
+hợp sau đây:
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+a) Trong thời hạn quản lý sau cai nghiện ma túy quy định tại khoản 1 và khoản 2
+Điều 40 của Luật này mà không phát hiện người đó sử dụng trái phép chất ma túy;
 
-thuoc vao cac chat nay.
+b) Người nghiện ma túy, người bị quản lý sau cai nghiện ma túy phải thi hành
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+án phạt tù;
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+c) Người nghiện ma túy, người bị quản lý sau cai nghiện ma túy chuyển đến cư
 
-chong ma tuy 2021
+trú ở địa phương khác;
 
-Dieu 1. Pham vi dieu chinh
+d) Người nghiện ma túy, người bị quản lý sau cai nghiện ma túy chết, bị Tòa
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+án tuyên bố mất tích.
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+Chương VI
+QUẢN LÝ NHÀ NƯỚC VỀ PHÒNG, CHỐNG MA TÚY
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+Điều 44. Nội dung quản lý nhà nước về phòng, chống ma túy
 
-Dieu 2. Giai thich tu ngu
+1. Xây dựng và tổ chức thực hiện chiến lược, chủ trương, chính sách, kế hoạch
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+về phòng, chống ma túy.
 
-phu ban hanh.
+2. Ban hành và tổ chức thực hiện các văn bản quy phạm pháp luật về phòng,
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+chống ma túy.
 
-thuoc vao cac chat nay.
+3. Tổ chức bộ máy, đào tạo, bồi dưỡng người làm công tác phòng, chống ma túy.
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+4. Kiểm soát các hoạt động hợp pháp liên quan đến ma túy.
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+5. Thực hiện công tác cai nghiện ma túy và quản lý sau cai nghiện ma túy.
 
-chong ma tuy 2021
+6. Tổ chức đấu tranh phòng, chống ma túy.
 
-Dieu 1. Pham vi dieu chinh
+7. Thực hiện thống kê nhà nước về phòng, chống ma túy.
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+8.  Tổ  chức  nghiên  cứu,  ứng  dụng  tiến  bộ  khoa  học  và  công  nghệ  về  phòng,
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+chống ma túy.
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+30
 
-Dieu 2. Giai thich tu ngu
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+9. Tổ chức tuyên truyền, giáo dục về phòng, chống ma túy.
 
-phu ban hanh.
+10. Hợp tác quốc tế về phòng, chống ma túy.
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+11. Khen thưởng, kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo và xử lý vi
 
-thuoc vao cac chat nay.
+phạm pháp luật về phòng, chống ma túy.
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+Điều 45. Trách nhiệm quản lý nhà nước về phòng, chống ma túy
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+1. Chính phủ thống nhất quản lý nhà nước về phòng, chống ma túy.
 
-chong ma tuy 2021
+2. Bộ Công an là cơ quan đầu mối giúp Chính phủ thực hiện quản lý nhà nước
 
-Dieu 1. Pham vi dieu chinh
+về phòng, chống ma túy.
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+3. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, trong phạm vi nhiệm
+vụ,  quyền  hạn  của  mình,  có  trách  nhiệm  thực  hiện  và  phối  hợp  với  cơ  quan,  tổ
+chức có liên quan trong phòng, chống ma túy.
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+4.  Ủy  ban  nhân  dân  các  cấp,  trong  phạm  vi  nhiệm  vụ,  quyền  hạn  của  mình,
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+thực hiện quản lý nhà nước về phòng, chống ma túy tại địa phương.
 
-Dieu 2. Giai thich tu ngu
+Điều 46. Trách nhiệm của Bộ Công an
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+1. Ban hành theo thẩm quyền hoặc trình cơ quan nhà nước có thẩm quyền ban
 
-phu ban hanh.
+hành văn bản quy phạm pháp luật về phòng, chống ma túy.
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+2. Chủ trì, phối hợp với cơ quan, tổ chức có liên quan trong phòng, chống ma
+túy; tổ chức tiếp nhận và xử lý thông tin tội phạm về ma túy; kiểm soát các hoạt
+động hợp pháp liên quan đến ma túy theo thẩm quyền.
 
-thuoc vao cac chat nay.
+3. Tổ chức công tác giám định chất ma túy và tiền chất.
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+4. Đào tạo, bồi dưỡng người làm công tác điều tra, đấu tranh phòng, chống tội
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline. Luat Phong,
+phạm về ma túy.
 
-chong ma tuy 2021
+5. Hướng dẫn việc lập danh sách người sử dụng trái phép chất ma túy, người
 
-Dieu 1. Pham vi dieu chinh
+nghiện ma túy, người bị quản lý sau cai nghiện ma túy.
 
-Luat nay quy dinh ve phong, chong ma tuy, quan ly nguoi su dung trai phep chat ma tuy, cai nghien
+6. Chủ trì thực hiện thống kê nhà nước về phòng, chống ma túy; quản lý thông
+tin tội phạm về ma túy, người sử dụng trái phép chất ma túy, người nghiện ma túy,
+người  bị  quản  lý  sau  cai  nghiện  ma  túy  và  kết quả  kiểm  soát các  hoạt  động  hợp
+pháp liên quan đến ma túy.
 
-ma tuy, trach nhiem cua ca nhan, gia dinh, co quan, to chuc ve phong, chong ma tuy; quan ly nha
+7. Thực hiện hợp tác quốc tế về phòng, chống ma túy.
 
-nuoc va hop tac quoc te ve phong, chong ma tuy.
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
 
-Dieu 2. Giai thich tu ngu
+31
 
-1.  Chat  ma  tuy  la  chat  gay  nghien,  chat  huong  than  duoc  quy  dinh  trong  cac  danh  muc  do  Chinh
+Điều 47. Trách nhiệm của Bộ Lao động - Thương binh và Xã hội
 
-phu ban hanh.
+1. Ban hành theo thẩm quyền hoặc trình cơ quan nhà nước có thẩm quyền ban
 
-2. Nguoi nghien ma tuy la nguoi su dung chat ma tuy, thuoc gay nghien, thuoc huong than va bi le
+hành văn bản quy phạm pháp luật về phòng, chống ma túy.
 
-thuoc vao cac chat nay.
+2. Chủ trì, phối hợp với cơ quan, tổ chức có liên quan và chính quyền địa phương
+hướng dẫn việc tổ chức cai nghiện ma túy tự nguyện tại gia đình, cộng đồng, cai
+nghiện ma túy tại cơ sở cai nghiện ma túy và quản lý sau cai nghiện ma túy.
 
-3. Hinh phat ma tuy duoc ap dung nghiem khac theo phap luat.
+3.  Hướng  dẫn  việc  thành  lập,  giải  thể  và  tổ  chức  hoạt  động  của  cơ  sở  cai
 
-Day la mot van ban mo phong duoc tao de phuc vu muc dich thu nghiem RAG pipeline.
+nghiện ma túy công lập.
+
+4. Đào tạo, bồi dưỡng người làm công tác cai nghiện ma túy, quản lý sau cai
+
+nghiện ma túy.
+
+5. Hướng dẫn, chỉ đạo tổ chức thực hiện việc tuyên truyền, giáo dục về phòng,
+
+chống ma túy trong hệ thống cơ sở giáo dục nghề nghiệp.
+
+6. Thực hiện hợp tác quốc tế về cai nghiện ma túy.
+
+7.  Thống  kê  người  nghiện  ma  túy  đang  cai  nghiện  ma  túy  tự  nguyện  tại  gia
+
+đình, cộng đồng, cai nghiện ma túy tại cơ sở cai nghiện ma túy.
+
+Điều 48. Trách nhiệm của Bộ Quốc phòng
+
+1. Ban hành theo thẩm quyền hoặc trình cơ quan nhà nước có thẩm quyền ban
+
+hành văn bản quy phạm pháp luật về phòng, chống ma túy.
+
+2. Tổ chức thực hiện kế hoạch phòng, chống ma túy ở khu vực biên giới trên
+đất liền, trên biển, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế và thềm lục địa.
+
+3. Chỉ đạo lực lượng Bộ đội Biên phòng, Cảnh sát biển Việt Nam chủ trì, phối
+hợp  với  cơ  quan,  tổ  chức  có  liên  quan,  lực  lượng  chức  năng  để  tiếp  nhận,  xử  lý
+thông tin tội phạm về ma túy, phát hiện, ngăn chặn, đấu tranh với các hành vi vi
+phạm pháp luật về ma túy, kiểm soát các hoạt động hợp pháp liên quan đến ma túy
+tại khu vực, địa bàn quy định tại khoản 2 Điều này theo quy định của Luật này và
+quy định khác của pháp luật có liên quan.
+
+4. Đào tạo, bồi dưỡng người làm công tác chuyên trách phòng, chống tội phạm
+
+về ma túy của Bộ đội Biên phòng và Cảnh sát biển Việt Nam.
+
+5. Thống kê người nghiện ma túy trong trại giam, trại tạm giam, nhà tạm giữ
+
+do Bộ Quốc phòng quản lý.
+
+32
+
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
+
+Điều 49. Trách nhiệm của Bộ Y tế
+
+1. Ban hành theo thẩm quyền hoặc trình cơ quan nhà nước có thẩm quyền ban
+
+hành văn bản quy phạm pháp luật về phòng, chống ma túy.
+
+2. Thực hiện việc nghiên cứu thuốc và phương pháp cai nghiện ma túy; cấp,
+
+thu hồi giấy phép lưu hành thuốc, phương pháp cai nghiện ma túy; hỗ trợ về người,
+
+chuyên môn kỹ thuật y tế để cai nghiện ma túy.
+
+3.  Thống  kê  người  đang  tham  gia  điều  trị  nghiện  các  chất  dạng  thuốc  phiện
+
+bằng thuốc thay thế.
+
+Điều 50. Trách nhiệm của Bộ Tài chính
+
+Chỉ đạo cơ quan Hải quan thực hiện hoạt động phòng, chống ma túy theo quy
+
+định của Luật này và quy định khác của pháp luật có liên quan.
+
+Chương VII
+
+HỢP TÁC QUỐC TẾ VỀ PHÒNG, CHỐNG MA TÚY
+
+Điều 51. Nguyên tắc trong hợp tác quốc tế về phòng, chống ma túy
+
+1. Nhà nước Việt Nam thực hiện điều ước quốc tế về phòng, chống ma túy và
+
+điều ước quốc tế khác có liên quan mà nước Cộng hòa xã hội chủ nghĩa Việt Nam
+
+là thành viên trên nguyên tắc tôn trọng độc lập, chủ quyền, toàn vẹn lãnh thổ và
+
+các bên cùng có lợi; hợp tác với các nước, tổ chức quốc tế, tổ chức, cá nhân nước
+
+ngoài trong hoạt động phòng, chống ma túy.
+
+2. Trên cơ sở điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam
+
+là thành viên, quy định của Luật này và quy định khác của pháp luật có liên quan,
+
+thỏa  thuận  quốc  tế  đã  ký  kết,  cơ  quan  có  thẩm  quyền  của  Việt  Nam  thực  hiện
+
+chương  trình  hợp  tác  về  phòng,  chống  ma  túy  với  cơ  quan  có  liên  quan  của  các
+
+nước, tổ chức quốc tế, tổ chức, cá nhân nước ngoài.
+
+Điều 52. Chính sách hợp tác quốc tế về phòng, chống ma túy
+
+Nhà nước Việt Nam thực hiện chính sách hợp tác quốc tế đa phương và song
+
+phương trong lĩnh vực phòng, chống ma túy trên nguyên tắc tôn trọng độc lập, chủ
+
+quyền quốc gia với các nước; khuyến khích tổ chức quốc tế, tổ chức, cá nhân nước
+
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
+
+33
+
+ngoài hợp tác với cơ quan, tổ chức của Việt Nam hỗ trợ lẫn nhau về cơ sở vật chất,
+
+tăng cường năng lực pháp luật, thông tin, công nghệ đào tạo và y tế cho hoạt động
+
+phòng, chống ma túy.
+
+Điều 53. Chuyển giao hàng hóa có kiểm soát
+
+Nhà nước Việt Nam thực hiện yêu cầu chuyển giao hàng hóa có kiểm soát trên
+cơ sở điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên
+để phát hiện và truy cứu trách nhiệm hình sự đối với người phạm tội về ma túy.
+Việc quyết định áp dụng và tiến hành biện pháp này thực hiện theo thỏa thuận giữa
+cơ quan có thẩm quyền của Việt Nam và của nước có liên quan.
+
+Chương VIII
+ĐIỀU KHOẢN THI HÀNH
+
+Điều 54. Hiệu lực thi hành
+
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2022.
+
+2. Luật Phòng, chống ma túy số 23/2000/QH10 đã được sửa đổi, bổ sung một
+số điều theo Luật số 16/2008/QH12 hết hiệu lực kể từ ngày Luật này có hiệu lực
+thi hành.
+
+Điều 55. Quy định chuyển tiếp
+
+1. Kể từ ngày Luật này có hiệu lực thi hành:
+
+a) Người đang thực hiện cai nghiện ma túy tự nguyện tại gia đình, cộng đồng
+hoặc tại cơ sở cai nghiện thì tiếp tục thực hiện cai nghiện ma túy tự nguyện đến
+hết  thời  hạn  đã  đăng  ký  theo  quy  định  của  Luật  Phòng,  chống  ma  túy  số
+23/2000/QH10 đã được sửa đổi, bổ sung một số điều theo Luật số 16/2008/QH12
+và bị quản lý sau cai nghiện ma túy theo quy định của Luật này;
+
+b) Người đang bị quản lý sau cai nghiện ma túy thì tiếp tục chấp hành quyết
+định quản lý sau cai nghiện ma túy đến hết thời hạn quản lý sau cai nghiện theo
+quy  định  của  Luật  Phòng,  chống  ma  túy  số  23/2000/QH10  đã  được  sửa  đổi,  bổ
+sung một số điều theo Luật số 16/2008/QH12. Trường hợp người đang trong thời
+gian quản lý sau cai nghiện ma túy đủ 18 tuổi kể từ ngày Luật này có hiệu lực thi
+hành  mà  tái  nghiện  thì  áp  dụng  biện  pháp  xử  lý  hành  chính  đưa  vào  cơ  sở  cai
+nghiện bắt buộc;
+
+34
+
+CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
+
+c)  Người  đang  chấp  hành  quyết  định  cai  nghiện  ma  túy  bắt  buộc  tại  cộng
+đồng theo quy định của Luật Phòng, chống ma túy số 23/2000/QH10 đã được sửa
+đổi, bổ sung một số điều theo Luật số 16/2008/QH12 thì được đăng ký cai nghiện
+tự  nguyện  theo  quy  định  của  Luật  này.  Thời  gian  đã  chấp  hành  quyết  định  cai
+nghiện ma túy bắt buộc tại cộng đồng được tính vào thời hạn cai nghiện ma túy
+tự nguyện;
+
+d) Người thuộc trường hợp phải đưa vào cơ sở cai nghiện bắt buộc theo quy
+định của Luật Phòng, chống ma túy số 23/2000/QH10 đã được sửa đổi, bổ sung
+một số điều theo Luật số 16/2008/QH12 đang trong quá trình lập hồ sơ đưa vào
+cơ sở cai nghiện bắt buộc thì thực hiện việc cai nghiện ma túy theo quy định của
+Luật này;
+
+đ) Giấy phép liên quan đến hoạt động hợp pháp liên quan đến ma túy đã được
+
+cấp tiếp tục được sử dụng đến hết thời hạn ghi trên giấy phép.
+
+ 2. Trong thời hạn 02 năm kể từ ngày Luật này có hiệu lực thi hành, cơ sở
+cai nghiện ma túy bắt buộc được thành lập theo quy định của Luật Phòng, chống
+ma  túy  số  23/2000/QH10  đã  được  sửa  đổi,  bổ  sung  một  số  điều  theo  Luật  số
+16/2008/QH12  phải  đáp  ứng  đủ  điều  kiện  của  cơ  sở  cai  nghiện  ma  túy  công  lập
+theo quy định của Luật này.
+
+Các cơ sở khác về cai nghiện ma túy theo quy định của Luật Phòng, chống ma
+túy  số  23/2000/QH10  đã  được  sửa  đổi,  bổ  sung  một  số  điều  theo  Luật  số
+16/2008/QH12 đã được cấp giấy phép hoạt động trước ngày Luật này có hiệu lực
+thi hành được tiếp tục hoạt động cho đến khi hết thời hạn của giấy phép.
+
+Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV,
+
+kỳ họp thứ 11 thông qua ngày 30 tháng 3 năm 2021.
+
+CHỦ TỊCH QUỐC HỘI
+
+Nguyễn Thị Kim Ngân
 
