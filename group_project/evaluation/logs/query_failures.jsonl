@@ -107,3 +107,7 @@
 {"timestamp": "2026-06-08T06:50:52.331524", "source": "live", "query": "An Tây khởi tố ma tuý", "mode": "hybrid", "total_results": 7, "elapsed_ms": 207.1, "top_score": 0.9997, "is_failure": false, "failure_reasons": []}
 {"timestamp": "2026-06-08T06:50:59.389966", "source": "live", "query": "An Tây khởi tố ma tuý", "mode": "hybrid", "total_results": 7, "elapsed_ms": 211.4, "top_score": 0.9997, "is_failure": false, "failure_reasons": []}
 {"timestamp": "2026-06-08T07:03:20.393415", "source": "live", "query": "điều 219 liên quan ma túy là gì?", "mode": "hybrid", "total_results": 7, "elapsed_ms": 182.4, "top_score": 0.8615, "is_failure": false, "failure_reasons": []}
+{"timestamp": "2026-06-08T07:38:49.745238", "source": "live", "query": "An Tây khởi tố ma tuý", "mode": "hybrid", "total_results": 7, "elapsed_ms": 283.0, "top_score": 0.9997, "is_failure": false, "failure_reasons": []}
+{"timestamp": "2026-06-08T07:38:53.382515", "source": "live", "query": "Hình phạt tàng trữ ma tuý", "mode": "hybrid", "total_results": 7, "elapsed_ms": 165.8, "top_score": 0.9994, "is_failure": false, "failure_reasons": []}
+{"timestamp": "2026-06-08T07:39:29.431457", "source": "live", "query": "Chi Dân bị bắt ma tuý", "mode": "hybrid", "total_results": 7, "elapsed_ms": 243.9, "top_score": 0.9999, "is_failure": false, "failure_reasons": []}
+{"timestamp": "2026-06-08T07:39:45.483361", "source": "live", "query": "những nghệ sĩ bị bắt ma túy", "mode": "hybrid", "total_results": 7, "elapsed_ms": 197.1, "top_score": 0.9962, "is_failure": false, "failure_reasons": []}

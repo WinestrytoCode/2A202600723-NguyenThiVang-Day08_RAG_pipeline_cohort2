@@ -196,6 +196,22 @@ python3 group_project/run_server.py
 *   **Trang chủ tìm kiếm (Frontend UI):** `http://localhost:8000/`
 *   **Tài liệu Swagger API:** `http://localhost:8000/docs`
 
+### 3.1. Chia sẻ link công khai bằng Cloudflare Tunnel
+Dự án đã tích hợp sẵn binary `cloudflared` ở thư mục gốc để bạn có thể tạo đường link truy cập công khai (public link) cho Web UI (cổng 8000) mà không cần cấu hình NAT/IP:
+
+Chạy lệnh sau tại thư mục gốc (sau khi đã khởi chạy server Backend cổng 8000):
+```bash
+./cloudflared tunnel --url http://localhost:8000
+```
+
+Nhìn vào log xuất ra, bạn sẽ thấy một link dạng:
+`https://<tên-ngẫu-nhiên>.trycloudflare.com`
+
+Bạn có thể chia sẻ liên kết đó để người khác truy cập trực tiếp vào giao diện tìm kiếm của bạn. Nếu bạn muốn chạy ngầm lưu log:
+```bash
+nohup ./cloudflared tunnel --url http://localhost:8000 > tunnel.log 2>&1 &
+```
+
 ### 4. Khởi Chạy Giao Diện Chatbot RAG (Streamlit)
 ```bash
 streamlit run group_project/search_app.py
