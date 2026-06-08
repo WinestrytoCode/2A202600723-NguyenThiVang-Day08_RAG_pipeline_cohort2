@@ -8,7 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="/static/style.css" />
+  <link rel="stylesheet" href="/static/style.css?v=3" />
 </head>
 <body>
 
@@ -111,7 +111,17 @@
   </aside>
 
   <!-- Main Content -->
-  <main class="main">
+  <main class="main" style="position: relative;">
+    <!-- Theme Toggle at top right -->
+    <div class="theme-toggle-container">
+      <label class="theme-switch-wrapper" for="theme-toggle" title="Chuyển đổi Sáng/Tối">
+        <input type="checkbox" id="theme-toggle" />
+        <div class="theme-switch-slider">
+          <span class="theme-icon-dark">🌙</span>
+          <span class="theme-icon-light">☀️</span>
+        </div>
+      </label>
+    </div>
 
     <!-- Hero -->
     <header class="hero">
@@ -254,6 +264,6 @@
   </article>
 </template>
 
-<script src="/static/app.js"></script>
+<script src="/static/app.js?v=3"></script>
 </body>
 </html>

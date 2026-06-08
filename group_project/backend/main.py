@@ -45,6 +45,29 @@ def _log_live_query(query: str, api_response: dict) -> None:
     with open(LOG_FILE, "a", encoding="utf-8") as f:
         f.write(json.dumps(record, ensure_ascii=False) + "\n")
 
+
+_URL_CACHE = {}
+
+def get_url_for_source(source_name: str, doc_type: str) -> Optional[str]:
+    if doc_type != "news":
+        return None
+    if source_name in _URL_CACHE:
+        return _URL_CACHE[source_name]
+    
+    json_name = source_name.replace(".md", ".json")
+    json_path = Path(__file__).parent.parent.parent / "data" / "landing" / "news" / json_name
+    if json_path.exists():
+        try:
+            with open(json_path, encoding="utf-8") as f:
+                data = json.load(f)
+                url = data.get("url")
+                _URL_CACHE[source_name] = url
+                return url
+        except Exception:
+            pass
+    return None
+
+
 app = FastAPI(title="DrugLaw Search Engine API", version="1.0.0")
 
 app.add_middleware(
@@ -100,6 +123,7 @@ class SearchResult(BaseModel):
     source: str
     chunk_index: int
     retrieval_source: str
+    url: Optional[str] = None
 
 
 class SearchResponse(BaseModel):
@@ -203,6 +227,7 @@ def search(req: SearchRequest):
             source=meta.get("source", ""),
             chunk_index=int(meta.get("chunk_index", 0)),
             retrieval_source=r.get("retrieval_source", "hybrid"),
+            url=get_url_for_source(meta.get("source", ""), meta.get("type", "unknown")),
         ))
 
     response = SearchResponse(

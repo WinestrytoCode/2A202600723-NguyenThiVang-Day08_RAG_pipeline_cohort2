@@ -26,6 +26,7 @@ const $statsbar     = document.getElementById('statsbar');
 const $topKSlider   = document.getElementById('top-k-slider');
 const $topKValue    = document.getElementById('top-k-value');
 const $rerankToggle = document.getElementById('rerank-toggle');
+const $themeToggle  = document.getElementById('theme-toggle');
 const $retryBtn     = document.getElementById('retry-btn');
 const $sidebar      = document.getElementById('sidebar');
 const $sidebarToggle= document.getElementById('sidebar-toggle');
@@ -180,8 +181,13 @@ function renderCard(result, delay = 0) {
   // Source
   const srcName  = card.querySelector('.source-name');
   const srcChunk = card.querySelector('.source-chunk');
-  srcName.textContent  = result.source || 'Không rõ';
   srcChunk.textContent = `· Chunk #${result.chunk_index}`;
+
+  if (result.url) {
+    srcName.innerHTML = `<a href="${result.url}" target="_blank" class="source-link" title="Mở bài báo gốc">🔗 ${result.source || 'Không rõ'} ↗</a>`;
+  } else {
+    srcName.textContent  = result.source || 'Không rõ';
+  }
 
   // Content preview
   const preview = result.content.length > 380
@@ -209,6 +215,28 @@ function renderCard(result, delay = 0) {
     expandBtn.textContent = open ? 'Thu gọn ↑' : 'Xem đầy đủ ↓';
     expandBtn.classList.toggle('expanded', open);
   });
+
+  // Add source link in card footer if url is present
+  const cardFooter = card.querySelector('.card-footer');
+  if (result.url) {
+    const sourceBtn = document.createElement('a');
+    sourceBtn.href = result.url;
+    sourceBtn.target = '_blank';
+    sourceBtn.className = 'source-btn-link';
+    sourceBtn.innerHTML = 'Đọc bài báo gốc ↗';
+    const rankBadge = card.querySelector('.rank-badge');
+    cardFooter.insertBefore(sourceBtn, rankBadge);
+
+    // Make entire card content body clickable
+    card.classList.add('clickable-card');
+    card.setAttribute('title', 'Bấm để mở bài báo gốc');
+    card.addEventListener('click', (e) => {
+      if (e.target.closest('.card-footer') || e.target.closest('.card-expanded')) {
+        return;
+      }
+      window.open(result.url, '_blank');
+    });
+  }
 
   return card;
 }
@@ -290,3 +318,28 @@ document.addEventListener('keydown', (e) => {
     $searchInput.blur();
   }
 });
+
+// ── Theme Switcher ───────────────────────────────────────────────────────────
+function initTheme() {
+  const savedTheme = localStorage.getItem('theme') || 'dark';
+  if (savedTheme === 'light') {
+    document.body.setAttribute('data-theme', 'light');
+    $themeToggle.checked = true;
+  } else {
+    document.body.removeAttribute('data-theme');
+    $themeToggle.checked = false;
+  }
+}
+
+$themeToggle.addEventListener('change', () => {
+  if ($themeToggle.checked) {
+    document.body.setAttribute('data-theme', 'light');
+    localStorage.setItem('theme', 'light');
+  } else {
+    document.body.removeAttribute('data-theme');
+    localStorage.setItem('theme', 'dark');
+  }
+});
+
+// Init
+initTheme();
