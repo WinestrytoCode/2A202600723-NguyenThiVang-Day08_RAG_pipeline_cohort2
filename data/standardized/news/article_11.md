@@ -1,58 +1,34 @@
-# Anh em ca sĩ Chi Dân rủ nhiều người chơi ma túy như thế nào - Báo VnExpress
+# Ca sĩ Châu Việt Cường nhận 13 năm tù vì nhét tỏi hại chết cô gái
 
-**Source:** https://vnexpress.net/anh-em-ca-si-chi-dan-ru-nhieu-nguoi-choi-ma-tuy-nhu-the-nao-4929804.html
-**Crawled:** 2026-06-08T03:29:03.176856
+**Nguồn:** https://vnexpress.net/ca-si-chau-viet-cuong-nhan-13-nam-tu-vi-nhet-toi-hai-chet-co-gai-3891028.html
+**Ngày crawl:** 2026-06-08T14:28:37.887557
 
 ---
 
-Ngày 21/8, hành vi *Tổ chức sử dụng trái phép chất ma túy* của ca sĩ Chi Dân, 36 tuổi, cùng anh trai Nguyễn Trung Tín, 44 tuổi, được Công an TP HCM nêu trong kết luận điều tra, chuyển sang VKS đề nghị truy tố.
-
-Liên quan đến vụ án, Võ Thị Kim Tuyến, 38 tuổi, cùng 29 người khác bị cáo buộc tội *Mua bán, Tổ chức, Tàng trữ trái phép chất ma túy.*
-
-![Ca sĩ Chi Dân khi bị bắt. Ảnh: Công an cung cấp](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-Ca sĩ Chi Dân khi bị bắt. Ảnh: *Công an cung cấp*
-
-**Cảnh sát lần theo đường dây, phát hiện nhiều 'tiệc ma túy'**
-
-Theo kết luận điều tra, khuya 6/11/2024, Đội 2 Phòng Cảnh sát phòng chống tội phạm ma túy (PC04) Công an TP HCM) phối hợp xã Vĩnh Lộc B (huyện Bình Chánh) kiểm tra hành chính khách sạn trên địa bàn, phát hiện phòng Tuyến và Võ Văn Nhật, 33 tuổi, có nhiều ma túy.
-
-Người phụ nữ này khai mua ma túy nhiều nguồn rồi bán lại cho những người sử dụng. Nhật và một số người khác có vai trò giúp sức.
-
-Tiếp tục lần theo "dòng chảy ma túy", hôm sau cảnh sát ập vào căn nhà ở đường số 10, phường Bình Hưng Hòa B, quận Bình Tân, phát hiện nhiều người đang sử dụng chất cấm, thu giữ nhiều Ketamine, hàng đá, cân tiểu ly...
-
-Ngày 8/11, mở rộng điều tra, cảnh sát kiểm tra hành chính căn nhà trên đường Cộng Hòa (phường 4, quận Tân Bình cũ), bắt quả tang ca sĩ Chi Dân cùng anh trai và nhiều người đang tổ chức "tiệc ma túy".
-
-**Ca sĩ Chi Dân rủ nhóm bạn sử dụng ma túy**
-
-Lời khai những người tham gia bữa tiệc cho thấy, sáng 4/11/2024, Chi Dân nhắn tin rủ bạn là Hòa Thị Hồng, 33 tuổi, về nhà ở quận 4 nhậu, song được rủ qua căn nhà trên đường Cộng Hòa. Nam ca sĩ cùng anh trai đến chơi, sau đó rủ cả nhóm 7 người sử dụng ma túy.
-
-Một người trong nhóm dùng Telegram để đặt mua gói Ketamine, 3 viên thuốc lắc. Nguyễn Trung Tín chuẩn bị ma túy trên đĩa thủy tinh, dùng thẻ ngân hàng bằm nhuyễn, rồi kẻ thành các đường để mọi người cùng sử dụng.
-
-Kết quả điều tra xác định, đến hơn 5h sáng, ca sĩ Chi Dân rủ nhóm bạn dùng thêm ma túy "nước vui". Tín sau đó đặt mua 2 gói với giá 7,1 triệu đồng và nhờ em trai chuyển khoản trả tiền.
-
-Ca sĩ Chi Dân sau khi nhận 2 gói nước vui hiệu Ferrari do xe ôm công nghệ giao đến đã hòa chung vào nước ngọt, uống đầu tiên. Những người còn lại lần lượt sử dụng.
-
-Đến 9h sáng, cả nhóm lại thống nhất mua thêm nửa hộp Ketamine với giá 2,5 triệu đồng để tiếp tục "phê". Tuy nhiên, một người trong phải về đi làm nên Chi Dân sử dụng một ít, phần còn lại được Tín mang về, vứt trên đường.
-
-Cơ quan điều tra xác định, Chi Dân cùng anh trai đã có hành vi rủ rê, cung cấp ma túy nên phải chịu trách nhiệm hình sự về tội *Tổ chức sử dụng trái phép chất ma túy.*
-
-![Video bắt Chi dân và An Tây](https://iv1.vnecdn.net/vnexpress/images/web/2024/11/14/video-bat-chi-dan-va-an-tay-1731569791.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=5VB4yziviLJFqru35gqDfQ)
-
-[](https://d1.vnecdn.net/vnexpress/video/video/web/mp4/,480p,,/2024/11/14/video-bat-chi-dan-va-an-tay-1731569791/vne/master.m3u8)
-
-Video bắt Chi dân và An Tây
+#  Ca sĩ Châu Việt Cường nhận 13 năm tù vì nhét tỏi hại chết cô gái 
+Cường khai không bị ảo giác trong lúc hại chết cô gái hâm mộ anh ta song tòa án bác bỏ.
+![Ca sĩ Châu Việt Cường: Bị cáo không ảo giác](https://iv1.vnecdn.net/vnexpress/images/web/2019/03/07/ca-si-chau-viet-cuong-bi-cao-khong-ao-giac-1551936811.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=hku7RQUkxEHT5C9P2c51Rg)
+Ca sĩ Châu Việt Cường: Bị cáo không ảo giác
+Bị cáo Cường khai tại tòa về đêm gây án.
+Chiều 7/3, sau gần một ngày xét xử, nghị án, TAND Hà Nội tuyên phạt Nguyễn Việt Cường (tức Châu Việt Cường, 42 tuổi, ca sĩ) mức án 13 năm tù về tội _Giết người_. Tòa nhận định, Cường sử dụng ma túy nên bị ảo giác, không điều khiển được hành vi.
+Trước khi tòa tuyên án, trong lời nói sau cùng Cường mong được sớm về để tới bên mộ nạn nhân Huyền xin lỗi và để chăm sóc mẹ già, con nhỏ. "Bị cáo có tâm nguyện muốn xây mộ cho chị Huyền và tin rằng dưới suối vàng chị cũng hiểu được tâm nguyện", Cường trình bày.
+Liên quan vụ án, bạn của Cường là Phạm Đức Thế (37 tuổi) bị phạt 7 năm tù vì  _Tàng trữ trái phép chất ma túy_.
+Chiều 7/3, trả lời thẩm vấn tại TAND Hà Nội, bị cáo Cường thừa nhận đã gây tội, phải chịu sự trừng phạt của pháp luật nhưng khung hình phạt truy tố quá nặng (7-15 năm tù). "Bị cáo không có mục đích giết người", anh ta nói.
+Theo cơ quan công tố, Cường đi diễn ở tỉnh Hà Nam về đến Hà Nội vào khoảng 0h ngày 5/3/2018 nên gọi điện thoại cho Thế để xin ngủ nhờ, sáng hôm sau vào TP HCM. Cường rủ thêm bạn là một ca sĩ và hai cô gái cùng đến. Cả nhóm sau đó sử dụng ma túy.
+Khi dùng ma túy xong, cô gái tên Huyền ngồi cạnh đã ôm Cường, nói: "Em hâm mộ anh từ lâu". Sau đó, hai người quan hệ tình dục... Đến gần sáng, Cường định ra sân bay nhưng không đón được xe nên quay lại nhà Thế và gây án tại đây.
+![Bị cáo Cường trả lời thẩm vấn.](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+Bị cáo Cường trả lời thẩm vấn.
+Trước việc cáo trạng quy kết thời điểm đó Cường bị ảo giác gọi Huyền là bà cô tổ, anh ta phủ nhận. Cường khai khi quay lại nhà thấy Huyền đang ngồi dưới đệm. "Huyền vùng dậy, đứng lên ôm cổ, xoa đầu bị cáo và nói _Con à, bà cô của con đây",_ bị cáo khai và cho hay Huyền có nói đúng rất nhiều thứ về gia đình anh ta nên càng tin đó là "bà cô tổ".
+Tuy nhiên, lúc sau Huyền lại khóc lóc nói "thầy ơi cứu con" khiến Cường nghĩ cô gái bị "ma nhập". Anh ta nói với Thế cần tìm tỏi để trừ tà, nhét hơn 30 nhánh tỏi vào miệng khiến cô gái 20 tuổi tử vong.
+Sau những trình bày trên, Cường cho rằng không bị ảo giác, vì còn nhận thức rõ cô gái là Huyền chứ không phải ai khác. "Bị cáo còn đưa hai chiếc điện thoại cho Thế, bảo gọi vợ đến để cứu mình", Cường khai và cho hay điều đó thể hiện tinh thần anh ta tỉnh táo.
+Cường khai khi phát hiện Huyền nằm bất động đã khóc lóc vì biết sắp phải chịu sự trừng phạt của pháp luật. Bị cáo lấy con dao định tự tử song nhanh chóng từ bỏ ý định vì nghĩ "đã làm thì phải chịu".
+Trước việc chủ tọa công bố kết quả khám nghiệm tử thi cho thấy trong khoang miệng chị Huyền có rất nhiều nhánh tỏi còn nguyên vỏ, gây ngạt thở, Cường thanh minh: "Bị cáo chỉ muốn giúp chị Huyền. Còn việc xử lý tỏi như thế nào khi đưa vào miệng là do chị ấy". 
+![Ca sĩ Châu Việt Cường bị tuyên phạt 13 năm tù](https://iv1.vnecdn.net/vnexpress/images/web/2019/03/07/ca-si-chau-viet-cuong-bi-tuyen-phat-13-nam-tu-1551951997.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=go5yr4rcPCw3a5oh9KqN6w)
+Ca sĩ Châu Việt Cường bị tuyên phạt 13 năm tù
+Bị cáo Cường tự bào chữa tại tòa án.
+Đối chất việc này, Thế khai thấy Cường và Huyền khóc lóc, vái lạy nhau nên đã gọi một thày cúng đến. "Nhưng anh Cường đòi tìm tỏi vì cho rằng nhà bị cáo có ma, cần phải trừ tà", Thế khai. 
+Cô gái có mặt tại nhà Thế cũng khai thấy Cường xuống nhà mua tỏi với tinh thần hoảng loạn. "Tôi có nói nhét tỏi thế thì tắc thở mất nhưng anh ta không dừng lại, liên tục la hét", nữ nhân chứng cho hay.
+  * [Ca sĩ Châu Việt Cường hầu tòa vì nhét tỏi hại chết cô gái 20 tuổi](https://vnexpress.net/ca-si-chau-viet-cuong-hau-toa-vi-nhet-toi-hai-chet-co-gai-20-tuoi-3890738.html "Ca sĩ Châu Việt Cường hầu tòa vì nhét tỏi hại chết cô gái 20 tuổi") [ ](https://vnexpress.net/ca-si-chau-viet-cuong-hau-toa-vi-nhet-toi-hai-chet-co-gai-20-tuoi-3890738.html#box_comment_vne)
 
 
-
-Người mẫu An Tây, ca sĩ Chi Dân và Nguyễn Đỗ Trúc Phương tại cơ quan điều tra. Video: *Công an cung cấp*
-
-**Nhiều người mẫu, diễn viên, ca sĩ liên quan ma túy**
-
-Ca sĩ Chi Dân quê Kiên Giang, chủ yếu theo đuổi dòng nhạc Pop Ballad. Anh có một số bài hit như: *Mất trí nhớ, Điều anh biết, 1234*... và sáng tác ca khúc *Anh muốn em sống sao*.
-
-Cùng thời điểm Chi Dân bị phát hiện phạm tội, Công an TP HCM cũng bắt người mẫu, diễn viên Andrea Aybar (29 tuổi, tên tiếng Việt là Nguyễn Thị An) về hai hành vi *Tàng trữ trái phép chất ma túy* và *Tổ chức sử dụng trái phép chất ma túy;* Nguyễn Đỗ Trúc Phương (nhân vật có tầm ảnh hưởng trên mạng xã hội về việc lập các quỹ thiện nguyện) bị bắt về tội *Tổ chức sử dụng trái phép chất ma túy.*
-
-Động thái này được đưa ra trong quá trình mở rộng, truy xét toàn bộ đường dây tội phạm vận chuyển trái phép chất ma túy qua đường hàng không từ Pháp về Việt Nam thông qua [4 tiếp viên](https://vnexpress.net/lan-ra-duong-day-ma-tuy-lon-nhat-lich-su-tu-vu-4-tiep-vien-hang-khong-4702921.html). Đến nay, Công an TP HCM đã khởi tố tổng cộng 2.005 bị can, chứng minh số tiền giao dịch ma túy lên đến gần 29.000 tỷ đồng; chặt đứt gần 500 nhánh, phân nhánh của đường dây phạm tội hoạt động tại 34 tỉnh, thành, "khui" từng vỏ bọc của các ông trùm để thu gần 600 kg ma túy, 12 khẩu súng, 67 viên đạn, 3 quả lựu đạn.
-
-**Quốc Thắng**
+**Việt Dũng**
