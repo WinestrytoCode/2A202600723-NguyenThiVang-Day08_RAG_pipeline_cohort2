@@ -161,10 +161,9 @@ Bộ chấm coi 1 kết quả là "đúng" khi: ≥25% `expected_keywords` xuấ
 
 | Thành viên | MSSV | Nhiệm vụ | Trạng thái |
 |---|---|---|---|
-| **Nguyễn Thị Vang** | *Leader* | Thiết kế hệ thống, Crawl tin tức (Task 2), Chuẩn hóa dữ liệu (Task 1, 3). | ✅ Hoàn thành |
-| **Võ Huyền Khánh Mây** | *Search Dev* | Xây dựng index dữ liệu ChromaDB, tối ưu hoá bộ mã hóa dense/sparse (Task 4-6). | ✅ Hoàn thành |
-| **Thành viên 3** | *Rerank Dev* | Tích hợp Cross-Encoder Reranker đa ngôn ngữ tiếng Việt & PageIndex Fallback (Task 7-9).  | ✅ Hoàn thành |
-| **Thành viên 4** | *RAG & QA* | Viết cơ chế Generation, thiết lập pipeline đánh giá A/B & query failure logger. | ✅ Hoàn thành |
+| **Nguyễn Thị Vang** | *Leader* | Thiết kế hệ thống, Crawl tin tức (Task 2), Chuẩn hóa dữ liệu (Task 1, 3). Viết cơ chế Generation | ✅ Hoàn thành |
+| **Võ Huyền Khánh Mây** | *Search Dev* | Xây dựng index dữ liệu ChromaDB, tối ưu hoá bộ mã hóa dense/sparse (Task 4-6). thiết lập pipeline đánh giá A/B & | ✅ Hoàn thành |
+| **Vu Quoc Tan** | *Rerank Dev* | Tích hợp Cross-Encoder Reranker đa ngôn ngữ tiếng Việt & PageIndex Fallback (Task 7-9).  query failure logger.   | ✅ Hoàn thành |
 
 ---
 
