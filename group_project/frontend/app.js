@@ -35,6 +35,14 @@ const $modeOptions  = document.querySelectorAll('.mode-option');
 const $suggestions  = document.querySelectorAll('.suggestion-pill');
 const cardTemplate  = document.getElementById('card-template');
 
+// PDF Modal elements
+const $pdfModal        = document.getElementById('pdf-modal');
+const $pdfModalBackdrop= document.getElementById('pdf-modal-backdrop');
+const $pdfModalTitle   = document.getElementById('pdf-modal-title');
+const $pdfIframe       = document.getElementById('pdf-iframe');
+const $pdfCloseBtn     = document.getElementById('pdf-close-btn');
+const $pdfExternalLink = document.getElementById('pdf-external-link');
+
 // ── Sidebar Toggle ────────────────────────────────────────────────────────────
 $sidebarToggle.addEventListener('click', () => {
   const isCollapsed = $sidebar.classList.toggle('collapsed');
@@ -184,7 +192,16 @@ function renderCard(result, delay = 0) {
   srcChunk.textContent = `· Chunk #${result.chunk_index}`;
 
   if (result.url) {
-    srcName.innerHTML = `<a href="${result.url}" target="_blank" class="source-link" title="Mở bài báo gốc">🔗 ${result.source || 'Không rõ'} ↗</a>`;
+    const isLegal = result.doc_type === 'legal';
+    if (isLegal) {
+      srcName.innerHTML = `<a href="#" class="source-link" title="Xem bản PDF">🔗 ${result.source || 'Không rõ'} 🔍</a>`;
+      srcName.querySelector('a').addEventListener('click', (e) => {
+        e.preventDefault();
+        openPdfModal(result.url, result.source);
+      });
+    } else {
+      srcName.innerHTML = `<a href="${result.url}" target="_blank" class="source-link" title="Mở bài báo gốc">🔗 ${result.source || 'Không rõ'} ↗</a>`;
+    }
   } else {
     srcName.textContent  = result.source || 'Không rõ';
   }
@@ -219,22 +236,36 @@ function renderCard(result, delay = 0) {
   // Add source link in card footer if url is present
   const cardFooter = card.querySelector('.card-footer');
   if (result.url) {
+    const isLegal = result.doc_type === 'legal';
     const sourceBtn = document.createElement('a');
-    sourceBtn.href = result.url;
-    sourceBtn.target = '_blank';
+    sourceBtn.href = isLegal ? '#' : result.url;
+    if (!isLegal) {
+      sourceBtn.target = '_blank';
+    }
     sourceBtn.className = 'source-btn-link';
-    sourceBtn.innerHTML = 'Đọc bài báo gốc ↗';
+    sourceBtn.innerHTML = isLegal ? 'Xem bản PDF 🔍' : 'Đọc bài báo gốc ↗';
     const rankBadge = card.querySelector('.rank-badge');
     cardFooter.insertBefore(sourceBtn, rankBadge);
 
+    if (isLegal) {
+      sourceBtn.addEventListener('click', (e) => {
+        e.preventDefault();
+        openPdfModal(result.url, result.source);
+      });
+    }
+
     // Make entire card content body clickable
     card.classList.add('clickable-card');
-    card.setAttribute('title', 'Bấm để mở bài báo gốc');
+    card.setAttribute('title', isLegal ? 'Bấm để xem PDF văn bản' : 'Bấm để mở bài báo gốc');
     card.addEventListener('click', (e) => {
       if (e.target.closest('.card-footer') || e.target.closest('.card-expanded')) {
         return;
       }
-      window.open(result.url, '_blank');
+      if (isLegal) {
+        openPdfModal(result.url, result.source);
+      } else {
+        window.open(result.url, '_blank');
+      }
     });
   }
 
@@ -308,7 +339,7 @@ function renderResults(data) {
   showState('results');
 }
 
-// ── Keyboard Shortcut (/) to focus search ─────────────────────────────────────
+// ── Keyboard Shortcut (/) to focus search & Esc to close modal ───────────────
 document.addEventListener('keydown', (e) => {
   if (e.key === '/' && document.activeElement !== $searchInput) {
     e.preventDefault();
@@ -316,8 +347,27 @@ document.addEventListener('keydown', (e) => {
   }
   if (e.key === 'Escape') {
     $searchInput.blur();
+    closePdfModal();
   }
 });
+
+// ── PDF Modal functions ──────────────────────────────────────────────────────
+function openPdfModal(pdfUrl, title) {
+  $pdfModalTitle.textContent = title || 'Xem Văn Bản';
+  $pdfIframe.src = pdfUrl;
+  $pdfExternalLink.href = pdfUrl;
+  $pdfModal.hidden = false;
+  document.body.style.overflow = 'hidden'; // prevent scrolling base page
+}
+
+function closePdfModal() {
+  $pdfModal.hidden = true;
+  $pdfIframe.src = ''; // reset to stop download/render
+  document.body.style.overflow = '';
+}
+
+$pdfCloseBtn.addEventListener('click', closePdfModal);
+$pdfModalBackdrop.addEventListener('click', closePdfModal);
 
 // ── Theme Switcher ───────────────────────────────────────────────────────────
 function initTheme() {
