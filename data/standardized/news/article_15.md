@@ -1,0 +1,39 @@
+# Hot girl điều hành đường dây cung cấp ‘nước vui’, thuốc lắc… cho người nước ngoài - Tuổi Trẻ Online
+
+**Source:** https://tuoitre.vn/hot-girl-dieu-hanh-duong-day-cung-cap-nuoc-vui-thuoc-lac-cho-nguoi-nuoc-ngoai-20260602145446559.htm
+**Crawled:** 2026-06-08T03:29:05.830560
+
+---
+
+![người nước ngoài - Ảnh 1.](https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2026/6/2/base64-17803863730361391360105.jpeg)
+
+Hai nghi phạm cùng tang vật liên quan - Ảnh: H.B.
+
+Qua công tác nắm tình hình, lực lượng công an phát hiện La Thị Ngọc Ánh (24 tuổi, trú tỉnh Đắk Lắk, tạm trú phường Ngũ Hành Sơn, Đà Nẵng) có biểu hiện mua bán trái phép chất ma túy cho [người nước ngoài](https://tuoitre.vn/xu-phat-nguoi-dan-ong-chao-moi-du-khach-nuoc-ngoai-su-dung-ma-tuy-tren-pho-co-ha-noi-20260118210514631.htm "người nước ngoài ") (chủ yếu là khách du lịch).
+
+Người này sử dụng các ứng dụng mạng xã hội để liên lạc, giao dịch kín nhằm che giấu hoạt động.
+
+* #### [Tuyên tử hình nữ DJ cầm đầu đường dây mua bán ma túy 'nước vui'](/tuyen-tu-hinh-nu-dj-cam-dau-duong-day-mua-ban-ma-tuy-nuoc-vui-2026050713491726.htm)
+
+Rạng sáng 1-6, các mũi công tác của công an đã đồng loạt xuất kích, bắt quả tang La Thị Ngọc Ánh tại một khách sạn trên đường Trần Hưng Đạo (phường An Hải) khi đang chuẩn bị giao ma túy cho khách.
+
+[Tang vật](https://tuoitre.vn/tang-vat.html "Tang vật") thu giữ trên người Ánh gồm 1 gói "nước vui", 1 gói ketamine.
+
+Cùng thời điểm, công an phát hiện Man Jian Xiang (người nước ngoài) có hành vi tổ chức sử dụng trái phép chất ma túy. Tại hiện trường, lực lượng chức năng thu giữ 3 gói "nước vui", 3 gói ketamine, 2 gói ma túy đá, 20 viên hồng phiến, 1 cân tiểu ly cùng nhiều tang vật khác.
+
+Mở rộng điều tra, công an tiến hành giữ người trong trường hợp khẩn cấp đối với Xu Ming Chen, Yu Xun (cùng quốc tịch nước ngoài) để điều tra hành vi tàng trữ trái phép chất ma túy.
+
+Tiếp tục khám xét căn hộ do La Thị Ngọc Ánh thuê tại phường Ngũ Hành Sơn, công an bắt quả tang Phạm Thị Xuân Nhớ (39 tuổi, trú tỉnh Gia Lai) về hành vi mua bán trái phép chất ma túy. Tang vật thu giữ gồm 12 gói ma túy "nước vui", 29 viên thuốc lắc, 97 viên hồng phiến, 3 gói chứa chất bột màu trắng (nghi là ketamine) và nhiều gói chứa tinh thể rắn màu trắng (nghi ma túy đá).
+
+Qua đấu tranh, Phạm Thị Xuân Nhớ khai nhận sống cùng Ánh khoảng một tháng qua và được thuê giao ma túy cho khách với tiền công 500.000 đồng/lần.
+
+Kết quả xét nghiệm cho thấy La Thị Ngọc Ánh, Man Jian Xiang, Xu Ming Chen và Yu Xun đều dương tính với chất ma túy.
+
+Cơ quan Cảnh sát điều tra đã tạm giữ hình sự đối với La Thị Ngọc Ánh, Man Jian Xiang, Xu Ming Chen, Yu Xun về hành vi tổ chức sử dụng trái phép chất ma túy; La Thị Ngọc Ánh, Phạm Thị Xuân Nhớ về hành vi mua bán trái phép chất ma túy.
+
+[![Hotgirl 2k2 điều hành đường dây cung cấp ‘nước vui’, thuốc lắc…cho người nước ngoài - Ảnh 3.](https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2025/6/3/edit-edit-3-6-lat-tay-nguoi-nguy-trang-5000-vien-thuoc-lac-trong-cac-goi-thuc-pham-giam-can-1-1748945708176524271627-0-120-459-855-crop-17489541030051366442791.jpeg)](/5-000-vien-thuoc-lac-ve-viet-nam-trong-vo-boc-thuc-an-kieng-20250603172957342.htm)[5.000 viên thuốc lắc về Việt Nam trong vỏ bọc 'thức ăn kiêng'](/5-000-vien-thuoc-lac-ve-viet-nam-trong-vo-boc-thuc-an-kieng-20250603172957342.htm)
+
+Cảnh sát bắt nghi phạm khi vừa tiếp nhận lô hàng thuốc lắc được ngụy trang trong các gói thực phẩm chức năng giảm cân (thức ăn kiêng) vừa được vận chuyển từ nước ngoài về Việt Nam.
+
+[Đọc tiếp](# "Đọc tiếp")
+[Về trang Chủ đề](/nhom-chu-de.htm "Về trang chủ đề")
