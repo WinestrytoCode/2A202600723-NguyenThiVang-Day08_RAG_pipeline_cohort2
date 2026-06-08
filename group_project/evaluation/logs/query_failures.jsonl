@@ -94,3 +94,5 @@
 {"timestamp": "2026-06-08T05:46:28.369488", "source": "live", "query": "ca sĩ nào sử dụng ma túy 2026", "mode": "lexical", "total_results": 16, "elapsed_ms": 3.5, "top_score": 22.8699, "is_failure": false, "failure_reasons": []}
 {"timestamp": "2026-06-08T05:47:09.422852", "source": "live", "query": "Cai nghiện bắt buộc", "mode": "hybrid", "total_results": 7, "elapsed_ms": 121.0, "top_score": 0.9717, "is_failure": false, "failure_reasons": []}
 {"timestamp": "2026-06-08T06:41:26.620672", "source": "live", "query": "Hình phạt tàng trữ ma túy", "mode": "hybrid", "total_results": 7, "elapsed_ms": 18085.3, "top_score": 0.9994, "is_failure": false, "failure_reasons": []}
+{"timestamp": "2026-06-08T06:42:23.481306", "source": "live", "query": "An Tây khởi tố ma tuý", "mode": "hybrid", "total_results": 12, "elapsed_ms": 308.3, "top_score": 0.9997, "is_failure": false, "failure_reasons": []}
+{"timestamp": "2026-06-08T06:42:30.735952", "source": "live", "query": "Điều 248 Bộ luật Hình sự", "mode": "hybrid", "total_results": 12, "elapsed_ms": 211.8, "top_score": 0.9982, "is_failure": false, "failure_reasons": []}
