@@ -30,39 +30,42 @@ ARTICLE_URLS = [
     "https://tuoitre.vn/ca-si-chi-dan-nguoi-mau-an-tay-bi-dieu-tra-vi-lien-quan-ma-tuy-20241110084535359.htm",
     "https://tuoitre.vn/nguoi-mau-an-tay-bi-khoi-to-toi-to-chuc-su-dung-va-tang-tru-ma-tuy-20241114175653556.htm",
     "https://tuoitre.vn/ca-si-chi-dan-bi-khoi-to-toi-to-chuc-su-dung-trai-phep-chat-ma-tuy-20241114172551525.htm",
-    "https://tuoitre.vn/kham-xet-noi-o-cua-ca-si-chi-dan-nguoi-mau-an-tay-20241110121124701.htm"
+    "https://tuoitre.vn/kham-xet-noi-o-cua-ca-si-chi-dan-nguoi-mau-an-tay-20241110121124701.htm",
+    "https://tuoitre.vn/dien-vien-huu-tin-linh-7-nam-6-thang-tu-vi-to-chuc-su-dung-ma-tuy-20230428135851493.htm",
+    "https://tuoitre.vn/ca-si-chau-viet-cuong-linh-13-nam-tu-giam-20190307130545935.htm",
+    "https://tuoitre.vn/bat-giam-ca-si-chu-bin-to-chuc-su-dung-ma-tuy-tai-quan-10-20240606132717326.htm"
 ]
 
 
 async def crawl_article(url: str) -> dict:
     """
     Crawl một bài báo và trả về dict chứa metadata + content.
-
-    Returns:
-        {
-            "url": str,
-            "title": str,
-            "date_crawled": str (ISO format),
-            "content_markdown": str
-        }
+    Sử dụng requests và BeautifulSoup thay vì Playwright để tránh lỗi môi trường.
     """
-    from crawl4ai import AsyncWebCrawler
-
-    # TODO: Implement crawling logic
-    async with AsyncWebCrawler() as crawler:
-        result = await crawler.arun(url=url)
-        
-        # Crawl4AI result metadata might be a dict or not exist depending on the version
-        title = "Unknown"
-        if hasattr(result, 'metadata') and result.metadata:
-            title = result.metadata.get("title", "Unknown")
-            
-        return {
-            "url": url,
-            "title": title,
-            "date_crawled": datetime.now().isoformat(),
-            "content_markdown": result.markdown,
-        }
+    import requests
+    from bs4 import BeautifulSoup
+    from markdownify import markdownify as md
+    
+    # Run requests in thread to avoid blocking asyncio
+    loop = asyncio.get_event_loop()
+    response = await loop.run_in_executor(
+        None, 
+        lambda: requests.get(url, headers={"User-Agent": "Mozilla/5.0"})
+    )
+    
+    soup = BeautifulSoup(response.content, "html.parser")
+    title = soup.title.string if soup.title else "Unknown"
+    
+    # Extract main content
+    article_body = soup.find("div", class_="detail-content") or soup.find("article") or soup.body
+    markdown_content = md(str(article_body)) if article_body else ""
+    
+    return {
+        "url": url,
+        "title": title.strip(),
+        "date_crawled": datetime.now().isoformat(),
+        "content_markdown": markdown_content.strip(),
+    }
 
 
 async def crawl_all():

@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DrugLaw Search Engine · Pháp Luật & Ma Tuý</title>
+  <meta name="description" content="Công cụ tìm kiếm thông minh về pháp luật và báo chí ma tuý Việt Nam. Hỗ trợ Hybrid Search + AI Reranking." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+
+<!-- ── Animated Background ─────────────────────────────────────────────── -->
+<div class="bg-grid" aria-hidden="true"></div>
+<div class="bg-orbs" aria-hidden="true">
+  <div class="orb orb-1"></div>
+  <div class="orb orb-2"></div>
+  <div class="orb orb-3"></div>
+</div>
+
+<!-- ── App Shell ───────────────────────────────────────────────────────── -->
+<div class="app">
+
+  <!-- Sidebar -->
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-brand">
+      <span class="brand-icon">⚖️</span>
+      <div>
+        <div class="brand-name">DrugLaw</div>
+        <div class="brand-sub">Search Engine</div>
+      </div>
+    </div>
+
+    <nav class="sidebar-nav">
+
+      <div class="nav-section-title">Phương thức tìm kiếm</div>
+      <div class="mode-group" role="radiogroup" aria-label="Chế độ tìm kiếm">
+        <label class="mode-option active" id="mode-hybrid">
+          <input type="radio" name="mode" value="hybrid" checked hidden />
+          <span class="mode-icon">🔀</span>
+          <div class="mode-info">
+            <span class="mode-label">Hybrid</span>
+            <span class="mode-desc">Semantic + BM25 + RRF</span>
+          </div>
+          <span class="mode-badge recommended">✦ Tốt nhất</span>
+        </label>
+        <label class="mode-option" id="mode-semantic">
+          <input type="radio" name="mode" value="semantic" hidden />
+          <span class="mode-icon">🧠</span>
+          <div class="mode-info">
+            <span class="mode-label">Semantic</span>
+            <span class="mode-desc">Vector similarity</span>
+          </div>
+        </label>
+        <label class="mode-option" id="mode-lexical">
+          <input type="radio" name="mode" value="lexical" hidden />
+          <span class="mode-icon">🔤</span>
+          <div class="mode-info">
+            <span class="mode-label">Lexical BM25</span>
+            <span class="mode-desc">Keyword matching</span>
+          </div>
+        </label>
+      </div>
+
+      <div class="nav-section-title" style="margin-top:1.5rem">Cấu hình</div>
+
+      <div class="config-item">
+        <label class="config-label" for="top-k-slider">
+          Số kết quả
+          <span class="config-value" id="top-k-value">7</span>
+        </label>
+        <input type="range" id="top-k-slider" class="slider" min="3" max="20" value="7" />
+      </div>
+
+      <div class="config-item" style="margin-top:1rem">
+        <label class="toggle-row" for="rerank-toggle">
+          <span class="toggle-label">
+            🎯 AI Reranking
+            <span class="toggle-sub">Cross-Encoder model</span>
+          </span>
+          <div class="toggle-switch">
+            <input type="checkbox" id="rerank-toggle" checked />
+            <span class="toggle-track"></span>
+          </div>
+        </label>
+      </div>
+
+      <div class="nav-section-title" style="margin-top:1.5rem">Gợi ý truy vấn</div>
+      <div class="suggestions" id="suggestions">
+        <button class="suggestion-pill" data-q="Hình phạt tàng trữ ma tuý">⚖️ Hình phạt tàng trữ</button>
+        <button class="suggestion-pill" data-q="Chi Dân bị bắt ma tuý">📰 Chi Dân bị bắt</button>
+        <button class="suggestion-pill" data-q="Điều 248 Bộ luật Hình sự">📜 Điều 248 BLHS</button>
+        <button class="suggestion-pill" data-q="An Tây khởi tố ma tuý">📰 An Tây khởi tố</button>
+        <button class="suggestion-pill" data-q="Cai nghiện bắt buộc">⚖️ Cai nghiện bắt buộc</button>
+        <button class="suggestion-pill" data-q="Nghị định 105/2021 điều 12">📜 Nghị định 105</button>
+      </div>
+
+    </nav>
+
+    <div class="sidebar-footer">
+      <div class="pipeline-info">
+        <div class="pipeline-title">Pipeline</div>
+        <div class="pipeline-step"><span class="step-dot green"></span> Task 5 — ChromaDB Semantic</div>
+        <div class="pipeline-step"><span class="step-dot amber"></span> Task 6 — BM25 Okapi</div>
+        <div class="pipeline-step"><span class="step-dot purple"></span> Task 7 — CrossEncoder Rerank</div>
+        <div class="pipeline-step"><span class="step-dot blue"></span> Task 9 — RRF Fusion</div>
+      </div>
+    </div>
+  </aside>
+
+  <!-- Main Content -->
+  <main class="main">
+
+    <!-- Hero -->
+    <header class="hero">
+      <button class="sidebar-toggle" id="sidebar-toggle" aria-label="Toggle sidebar">☰</button>
+      <div class="hero-content">
+        <h1 class="hero-title">
+          <span class="gradient-text">DrugLaw</span> Search Engine
+        </h1>
+        <p class="hero-sub">Tìm kiếm thông tin pháp luật và báo chí về ma tuý tại Việt Nam</p>
+      </div>
+      <div class="hero-stats" id="hero-stats">
+        <div class="hero-stat">
+          <span class="hero-stat-icon">📄</span>
+          <span class="hero-stat-label">Hybrid Search</span>
+        </div>
+        <div class="hero-stat">
+          <span class="hero-stat-icon">🤖</span>
+          <span class="hero-stat-label">AI Reranking</span>
+        </div>
+        <div class="hero-stat">
+          <span class="hero-stat-icon">⚡</span>
+          <span class="hero-stat-label">Real-time</span>
+        </div>
+      </div>
+    </header>
+
+    <!-- Search Box -->
+    <div class="search-section">
+      <div class="search-wrapper">
+        <span class="search-icon">🔍</span>
+        <input
+          type="text"
+          id="search-input"
+          class="search-input"
+          placeholder="VD: Hình phạt cho tội tàng trữ trái phép chất ma tuý..."
+          autocomplete="off"
+          spellcheck="false"
+        />
+        <button class="search-btn" id="search-btn" aria-label="Tìm kiếm">
+          <span class="btn-text">Tìm kiếm</span>
+          <span class="btn-icon">→</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Results Area -->
+    <div class="results-area" id="results-area">
+
+      <!-- Stats bar (hidden until search) -->
+      <div class="results-statsbar" id="statsbar" hidden>
+        <span id="stat-query"></span>
+        <span class="stat-sep">·</span>
+        <span id="stat-count"></span>
+        <span class="stat-sep">·</span>
+        <span id="stat-time"></span>
+        <span class="stat-sep">·</span>
+        <span id="stat-mode"></span>
+      </div>
+
+      <!-- Results list -->
+      <div id="results-list"></div>
+
+      <!-- Empty / Initial state -->
+      <div class="empty-state" id="empty-state">
+        <div class="empty-animation">
+          <div class="search-ring"></div>
+          <div class="empty-emoji">⚖️</div>
+        </div>
+        <h2 class="empty-title">Bắt đầu tìm kiếm</h2>
+        <p class="empty-desc">Nhập câu truy vấn vào ô tìm kiếm hoặc chọn một gợi ý từ sidebar.<br>
+        Hệ thống hỗ trợ tìm kiếm bằng ngôn ngữ tự nhiên tiếng Việt.</p>
+        <div class="empty-chips">
+          <span class="empty-chip">Hybrid Search</span>
+          <span class="empty-chip">AI Reranking</span>
+          <span class="empty-chip">Pháp luật & Báo chí</span>
+        </div>
+      </div>
+
+      <!-- Loading state -->
+      <div class="loading-state" id="loading-state" hidden>
+        <div class="loading-dots">
+          <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        </div>
+        <p class="loading-text">Đang tìm kiếm...</p>
+      </div>
+
+      <!-- Error state -->
+      <div class="error-state" id="error-state" hidden>
+        <div class="error-icon">⚠️</div>
+        <h3 class="error-title">Đã xảy ra lỗi</h3>
+        <p class="error-desc" id="error-message"></p>
+        <button class="retry-btn" id="retry-btn">Thử lại</button>
+      </div>
+
+    </div>
+  </main>
+</div>
+
+<!-- Result Card Template -->
+<template id="card-template">
+  <article class="result-card">
+    <div class="card-left-bar"></div>
+    <div class="card-body">
+      <div class="card-top">
+        <div class="card-badges">
+          <span class="badge badge-type"></span>
+          <span class="badge badge-source-type"></span>
+        </div>
+        <div class="card-score">
+          <span class="score-ring">
+            <svg viewBox="0 0 36 36" class="score-svg">
+              <circle class="score-bg" cx="18" cy="18" r="15" />
+              <circle class="score-fill" cx="18" cy="18" r="15" />
+            </svg>
+            <span class="score-text"></span>
+          </span>
+        </div>
+      </div>
+      <div class="card-source">
+        <span class="source-icon">📄</span>
+        <span class="source-name"></span>
+        <span class="source-chunk"></span>
+      </div>
+      <p class="card-content"></p>
+      <div class="card-footer">
+        <button class="expand-btn">Xem đầy đủ ↓</button>
+        <span class="rank-badge"></span>
+      </div>
+      <div class="card-expanded" hidden>
+        <div class="expanded-content"></div>
+        <div class="expanded-meta">
+          <div class="meta-item"><span class="meta-key">Score</span><span class="meta-val score-val"></span></div>
+          <div class="meta-item"><span class="meta-key">Loại</span><span class="meta-val type-val"></span></div>
+          <div class="meta-item"><span class="meta-key">Nguồn</span><span class="meta-val source-val"></span></div>
+          <div class="meta-item"><span class="meta-key">Chunk</span><span class="meta-val chunk-val"></span></div>
+          <div class="meta-item"><span class="meta-key">Method</span><span class="meta-val method-val"></span></div>
+        </div>
+      </div>
+    </div>
+  </article>
+</template>
+
+<script src="/static/app.js"></script>
+</body>
+</html>
